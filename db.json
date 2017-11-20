@@ -1,14 +1,6706 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.099872584,
+    "Population by Country (Clio Infra)": 23962313,
+    "": ""
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.085500987,
+    "Population by Country (Clio Infra)": 26166056,
+    "": "`"
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.073567607,
+    "Population by Country (Clio Infra)": 28369799,
+    "": ""
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.062459837,
+    "Population by Country (Clio Infra)": 30702899.5,
+    "": ""
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.052273583,
+    "Population by Country (Clio Infra)": 33036000,
+    "": ""
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.043009109,
+    "Population by Country (Clio Infra)": 35186000,
+    "": ""
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.035656642,
+    "Population by Country (Clio Infra)": 37336000,
+    "": ""
+  },
+  {
+    "Entity": "Armenia",
+    "Code": "ARM",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.02013421,
+    "Population by Country (Clio Infra)": 2519745,
+    "": ""
+  },
+  {
+    "Entity": "Armenia",
+    "Code": "ARM",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.014189627,
+    "Population by Country (Clio Infra)": 2817517,
+    "": ""
+  },
+  {
+    "Entity": "Armenia",
+    "Code": "ARM",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.010302364,
+    "Population by Country (Clio Infra)": 3115289,
+    "": ""
+  },
+  {
+    "Entity": "Armenia",
+    "Code": "ARM",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.007961606,
+    "Population by Country (Clio Infra)": 3246036,
+    "": ""
+  },
+  {
+    "Entity": "Armenia",
+    "Code": "ARM",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.006059944,
+    "Population by Country (Clio Infra)": 3376783,
+    "": ""
+  },
+  {
+    "Entity": "Armenia",
+    "Code": "ARM",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.004990827,
+    "Population by Country (Clio Infra)": 3209669.5,
+    "": ""
+  },
+  {
+    "Entity": "Armenia",
+    "Code": "ARM",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.004021982,
+    "Population by Country (Clio Infra)": 3042556,
+    "": ""
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 7.57e-7,
+    "Population by Country (Clio Infra)": 7467086,
+    "": ""
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 3.48e-7,
+    "Population by Country (Clio Infra)": 7508259.5,
+    "": ""
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 1.42e-7,
+    "Population by Country (Clio Infra)": 7549433,
+    "": ""
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 4.36e-8,
+    "Population by Country (Clio Infra)": 7636193,
+    "": ""
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 9.95e-9,
+    "Population by Country (Clio Infra)": 7722953,
+    "": ""
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 5.73e-10,
+    "Population by Country (Clio Infra)": 7918183,
+    "": ""
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.006170687,
+    "Population by Country (Clio Infra)": 8113413,
+    "": ""
+  },
+  {
+    "Entity": "Bahamas",
+    "Code": "BHS",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.030267482,
+    "Population by Country (Clio Infra)": 170323,
+    "": ""
+  },
+  {
+    "Entity": "Bahamas",
+    "Code": "BHS",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.027656406,
+    "Population by Country (Clio Infra)": 190133.5,
+    "": ""
+  },
+  {
+    "Entity": "Bahamas",
+    "Code": "BHS",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.024146183,
+    "Population by Country (Clio Infra)": 209944,
+    "": ""
+  },
+  {
+    "Entity": "Bahamas",
+    "Code": "BHS",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.021047577,
+    "Population by Country (Clio Infra)": 233598.5,
+    "": ""
+  },
+  {
+    "Entity": "Bahamas",
+    "Code": "BHS",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.018286184,
+    "Population by Country (Clio Infra)": 257253,
+    "": ""
+  },
+  {
+    "Entity": "Bahamas",
+    "Code": "BHS",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.015894159,
+    "Population by Country (Clio Infra)": 273664,
+    "": ""
+  },
+  {
+    "Entity": "Bahamas",
+    "Code": "BHS",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.013358694,
+    "Population by Country (Clio Infra)": 290075,
+    "": ""
+  },
+  {
+    "Entity": "Bahrain",
+    "Code": "BHR",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.516718583,
+    "Population by Country (Clio Infra)": 219543,
+    "": ""
+  },
+  {
+    "Entity": "Bahrain",
+    "Code": "BHR",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.384264341,
+    "Population by Country (Clio Infra)": 283555.5,
+    "": ""
+  },
+  {
+    "Entity": "Bahrain",
+    "Code": "BHR",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.286440032,
+    "Population by Country (Clio Infra)": 347568,
+    "": ""
+  },
+  {
+    "Entity": "Bahrain",
+    "Code": "BHR",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.226162726,
+    "Population by Country (Clio Infra)": 424022,
+    "": ""
+  },
+  {
+    "Entity": "Bahrain",
+    "Code": "BHR",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.163513566,
+    "Population by Country (Clio Infra)": 500476,
+    "": ""
+  },
+  {
+    "Entity": "Bahrain",
+    "Code": "BHR",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.121754809,
+    "Population by Country (Clio Infra)": 567306.5,
+    "": ""
+  },
+  {
+    "Entity": "Bahrain",
+    "Code": "BHR",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.091551098,
+    "Population by Country (Clio Infra)": 634137,
+    "": ""
+  },
+  {
+    "Entity": "Bangladesh",
+    "Code": "BGD",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.643926533,
+    "Population by Country (Clio Infra)": 67331000,
+    "": ""
+  },
+  {
+    "Entity": "Bangladesh",
+    "Code": "BGD",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.609529577,
+    "Population by Country (Clio Infra)": 77634000,
+    "": ""
+  },
+  {
+    "Entity": "Bangladesh",
+    "Code": "BGD",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.579074567,
+    "Population by Country (Clio Infra)": 87937000,
+    "": ""
+  },
+  {
+    "Entity": "Bangladesh",
+    "Code": "BGD",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.548752768,
+    "Population by Country (Clio Infra)": 99687000,
+    "": ""
+  },
+  {
+    "Entity": "Bangladesh",
+    "Code": "BGD",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.512244593,
+    "Population by Country (Clio Infra)": 111437000,
+    "": ""
+  },
+  {
+    "Entity": "Bangladesh",
+    "Code": "BGD",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.459616663,
+    "Population by Country (Clio Infra)": 124059000,
+    "": ""
+  },
+  {
+    "Entity": "Bangladesh",
+    "Code": "BGD",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.403400985,
+    "Population by Country (Clio Infra)": 136681000,
+    "": ""
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.00000118,
+    "Population by Country (Clio Infra)": 9637800,
+    "": ""
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 6.86e-7,
+    "Population by Country (Clio Infra)": 9742300,
+    "": ""
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 3.46e-7,
+    "Population by Country (Clio Infra)": 9846800,
+    "": ""
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 1.63e-7,
+    "Population by Country (Clio Infra)": 9908055,
+    "": ""
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 6.43e-8,
+    "Population by Country (Clio Infra)": 9969310,
+    "": ""
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 9.23e-9,
+    "Population by Country (Clio Infra)": 10116464,
+    "": ""
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 1.05e-9,
+    "Population by Country (Clio Infra)": 10263618,
+    "": ""
+  },
+  {
+    "Entity": "Belize",
+    "Code": "BLZ",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.224446518,
+    "Population by Country (Clio Infra)": 122070,
+    "": ""
+  },
+  {
+    "Entity": "Belize",
+    "Code": "BLZ",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.187639049,
+    "Population by Country (Clio Infra)": 133243,
+    "": ""
+  },
+  {
+    "Entity": "Belize",
+    "Code": "BLZ",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.159846521,
+    "Population by Country (Clio Infra)": 144416,
+    "": ""
+  },
+  {
+    "Entity": "Belize",
+    "Code": "BLZ",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.132493649,
+    "Population by Country (Clio Infra)": 167631.5,
+    "": ""
+  },
+  {
+    "Entity": "Belize",
+    "Code": "BLZ",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.107064024,
+    "Population by Country (Clio Infra)": 190847,
+    "": ""
+  },
+  {
+    "Entity": "Belize",
+    "Code": "BLZ",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.084218196,
+    "Population by Country (Clio Infra)": 219367,
+    "": ""
+  },
+  {
+    "Entity": "Belize",
+    "Code": "BLZ",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.066813638,
+    "Population by Country (Clio Infra)": 247887,
+    "": ""
+  },
+  {
+    "Entity": "Benin",
+    "Code": "BEN",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.829841612,
+    "Population by Country (Clio Infra)": 2619809,
+    "": ""
+  },
+  {
+    "Entity": "Benin",
+    "Code": "BEN",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.790051188,
+    "Population by Country (Clio Infra)": 3038904.5,
+    "": ""
+  },
+  {
+    "Entity": "Benin",
+    "Code": "BEN",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.748424127,
+    "Population by Country (Clio Infra)": 3458000,
+    "": ""
+  },
+  {
+    "Entity": "Benin",
+    "Code": "BEN",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.699254774,
+    "Population by Country (Clio Infra)": 4081500,
+    "": ""
+  },
+  {
+    "Entity": "Benin",
+    "Code": "BEN",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.659624993,
+    "Population by Country (Clio Infra)": 4705000,
+    "": ""
+  },
+  {
+    "Entity": "Benin",
+    "Code": "BEN",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.618356392,
+    "Population by Country (Clio Infra)": 5662000,
+    "": ""
+  },
+  {
+    "Entity": "Benin",
+    "Code": "BEN",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.565545763,
+    "Population by Country (Clio Infra)": 6619000,
+    "": ""
+  },
+  {
+    "Entity": "Bolivia",
+    "Code": "BOL",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.397367713,
+    "Population by Country (Clio Infra)": 4346218,
+    "": ""
+  },
+  {
+    "Entity": "Bolivia",
+    "Code": "BOL",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.336907874,
+    "Population by Country (Clio Infra)": 4893758,
+    "": ""
+  },
+  {
+    "Entity": "Bolivia",
+    "Code": "BOL",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.280179041,
+    "Population by Country (Clio Infra)": 5441298,
+    "": ""
+  },
+  {
+    "Entity": "Bolivia",
+    "Code": "BOL",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.230917381,
+    "Population by Country (Clio Infra)": 6007599,
+    "": ""
+  },
+  {
+    "Entity": "Bolivia",
+    "Code": "BOL",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.187694388,
+    "Population by Country (Clio Infra)": 6573900,
+    "": ""
+  },
+  {
+    "Entity": "Bolivia",
+    "Code": "BOL",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.151271809,
+    "Population by Country (Clio Infra)": 7384450,
+    "": ""
+  },
+  {
+    "Entity": "Bolivia",
+    "Code": "BOL",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.120192095,
+    "Population by Country (Clio Infra)": 8195000,
+    "": ""
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.328603064,
+    "Population by Country (Clio Infra)": 95684297,
+    "": ""
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.280687875,
+    "Population by Country (Clio Infra)": 109352148.5,
+    "": ""
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.236822752,
+    "Population by Country (Clio Infra)": 123020000,
+    "": ""
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.200295025,
+    "Population by Country (Clio Infra)": 137095000,
+    "": ""
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.169918968,
+    "Population by Country (Clio Infra)": 151170000,
+    "": ""
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.142084891,
+    "Population by Country (Clio Infra)": 163745000,
+    "": ""
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.118251608,
+    "Population by Country (Clio Infra)": 176320000,
+    "": ""
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.078551956,
+    "Population by Country (Clio Infra)": 8489574,
+    "": ""
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.059025806,
+    "Population by Country (Clio Infra)": 8666551,
+    "": ""
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.044214221,
+    "Population by Country (Clio Infra)": 8843528,
+    "": ""
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.033040993,
+    "Population by Country (Clio Infra)": 8868778,
+    "": ""
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.025651638,
+    "Population by Country (Clio Infra)": 8894028,
+    "": ""
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.020783766,
+    "Population by Country (Clio Infra)": 8356261.5,
+    "": ""
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.017925642,
+    "Population by Country (Clio Infra)": 7818495,
+    "": ""
+  },
+  {
+    "Entity": "Burkina Faso",
+    "Code": "BFA",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.946189547,
+    "Population by Country (Clio Infra)": 5303777,
+    "": ""
+  },
+  {
+    "Entity": "Burkina Faso",
+    "Code": "BFA",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.931724235,
+    "Population by Country (Clio Infra)": 5810888.5,
+    "": ""
+  },
+  {
+    "Entity": "Burkina Faso",
+    "Code": "BFA",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.909764847,
+    "Population by Country (Clio Infra)": 6318000,
+    "": ""
+  },
+  {
+    "Entity": "Burkina Faso",
+    "Code": "BFA",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.880228402,
+    "Population by Country (Clio Infra)": 7339500,
+    "": ""
+  },
+  {
+    "Entity": "Burkina Faso",
+    "Code": "BFA",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.845429682,
+    "Population by Country (Clio Infra)": 8361000,
+    "": ""
+  },
+  {
+    "Entity": "Burkina Faso",
+    "Code": "BFA",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.805149007,
+    "Population by Country (Clio Infra)": 9974500,
+    "": ""
+  },
+  {
+    "Entity": "Burkina Faso",
+    "Code": "BFA",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.76258266,
+    "Population by Country (Clio Infra)": 11588000,
+    "": ""
+  },
+  {
+    "Entity": "Cambodia",
+    "Code": "KHM",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.544531737,
+    "Population by Country (Clio Infra)": 7396000,
+    "": ""
+  },
+  {
+    "Entity": "Cambodia",
+    "Code": "KHM",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.481204871,
+    "Population by Country (Clio Infra)": 7142000,
+    "": ""
+  },
+  {
+    "Entity": "Cambodia",
+    "Code": "KHM",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.450717023,
+    "Population by Country (Clio Infra)": 6888000,
+    "": ""
+  },
+  {
+    "Entity": "Cambodia",
+    "Code": "KHM",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.394276279,
+    "Population by Country (Clio Infra)": 8116500,
+    "": ""
+  },
+  {
+    "Entity": "Cambodia",
+    "Code": "KHM",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.346971558,
+    "Population by Country (Clio Infra)": 9345000,
+    "": ""
+  },
+  {
+    "Entity": "Cambodia",
+    "Code": "KHM",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.314413019,
+    "Population by Country (Clio Infra)": 10870500,
+    "": ""
+  },
+  {
+    "Entity": "Cambodia",
+    "Code": "KHM",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.270035293,
+    "Population by Country (Clio Infra)": 12396000,
+    "": ""
+  },
+  {
+    "Entity": "Cameroon",
+    "Code": "CMR",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.618579227,
+    "Population by Country (Clio Infra)": 6726733,
+    "": ""
+  },
+  {
+    "Entity": "Cameroon",
+    "Code": "CMR",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.547421494,
+    "Population by Country (Clio Infra)": 7744366.5,
+    "": ""
+  },
+  {
+    "Entity": "Cameroon",
+    "Code": "CMR",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.480479354,
+    "Population by Country (Clio Infra)": 8762000,
+    "": ""
+  },
+  {
+    "Entity": "Cameroon",
+    "Code": "CMR",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.41607865,
+    "Population by Country (Clio Infra)": 10323000,
+    "": ""
+  },
+  {
+    "Entity": "Cameroon",
+    "Code": "CMR",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.358532332,
+    "Population by Country (Clio Infra)": 11884000,
+    "": ""
+  },
+  {
+    "Entity": "Cameroon",
+    "Code": "CMR",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.304626142,
+    "Population by Country (Clio Infra)": 13613500,
+    "": ""
+  },
+  {
+    "Entity": "Cameroon",
+    "Code": "CMR",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.253342626,
+    "Population by Country (Clio Infra)": 15343000,
+    "": ""
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.02400129,
+    "Population by Country (Clio Infra)": 21749986,
+    "": ""
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.020091046,
+    "Population by Country (Clio Infra)": 23171643,
+    "": ""
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.016449593,
+    "Population by Country (Clio Infra)": 24593300,
+    "": ""
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.013496501,
+    "Population by Country (Clio Infra)": 26191950,
+    "": ""
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.010895644,
+    "Population by Country (Clio Infra)": 27790600,
+    "": ""
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.008472026,
+    "Population by Country (Clio Infra)": 29445300,
+    "": ""
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.006486386,
+    "Population by Country (Clio Infra)": 31100000,
+    "": ""
+  },
+  {
+    "Entity": "Central African Republic",
+    "Code": "CAF",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.785433913,
+    "Population by Country (Clio Infra)": 1839245,
+    "": ""
+  },
+  {
+    "Entity": "Central African Republic",
+    "Code": "CAF",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.723036908,
+    "Population by Country (Clio Infra)": 2094122.5,
+    "": ""
+  },
+  {
+    "Entity": "Central African Republic",
+    "Code": "CAF",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.65306626,
+    "Population by Country (Clio Infra)": 2349000,
+    "": ""
+  },
+  {
+    "Entity": "Central African Republic",
+    "Code": "CAF",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.588073868,
+    "Population by Country (Clio Infra)": 2717000,
+    "": ""
+  },
+  {
+    "Entity": "Central African Republic",
+    "Code": "CAF",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.526371358,
+    "Population by Country (Clio Infra)": 3085000,
+    "": ""
+  },
+  {
+    "Entity": "Central African Republic",
+    "Code": "CAF",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.467130291,
+    "Population by Country (Clio Infra)": 3512500,
+    "": ""
+  },
+  {
+    "Entity": "Central African Republic",
+    "Code": "CAF",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.412802473,
+    "Population by Country (Clio Infra)": 3940000,
+    "": ""
+  },
+  {
+    "Entity": "Chad",
+    "Code": "TCD",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.902826194,
+    "Population by Country (Clio Infra)": 3727000,
+    "": ""
+  },
+  {
+    "Entity": "Chad",
+    "Code": "TCD",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.865388077,
+    "Population by Country (Clio Infra)": 4124500,
+    "": ""
+  },
+  {
+    "Entity": "Chad",
+    "Code": "TCD",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.83091846,
+    "Population by Country (Clio Infra)": 4522000,
+    "": ""
+  },
+  {
+    "Entity": "Chad",
+    "Code": "TCD",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.790784208,
+    "Population by Country (Clio Infra)": 5181500,
+    "": ""
+  },
+  {
+    "Entity": "Chad",
+    "Code": "TCD",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.741191317,
+    "Population by Country (Clio Infra)": 5841000,
+    "": ""
+  },
+  {
+    "Entity": "Chad",
+    "Code": "TCD",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.691406286,
+    "Population by Country (Clio Infra)": 6892000,
+    "": ""
+  },
+  {
+    "Entity": "Chad",
+    "Code": "TCD",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.640281895,
+    "Population by Country (Clio Infra)": 7943000,
+    "": ""
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.12318066,
+    "Population by Country (Clio Infra)": 9368558,
+    "": ""
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.101869162,
+    "Population by Country (Clio Infra)": 10231138,
+    "": ""
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.084111742,
+    "Population by Country (Clio Infra)": 11093718,
+    "": ""
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.069981381,
+    "Population by Country (Clio Infra)": 12111359,
+    "": ""
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.058207726,
+    "Population by Country (Clio Infra)": 13129000,
+    "": ""
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.048337905,
+    "Population by Country (Clio Infra)": 14142500,
+    "": ""
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.040132224,
+    "Population by Country (Clio Infra)": 15156000,
+    "": ""
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.407423762,
+    "Population by Country (Clio Infra)": 818315000,
+    "": ""
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.339346393,
+    "Population by Country (Clio Infra)": 900088000,
+    "": ""
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.272937507,
+    "Population by Country (Clio Infra)": 981861000,
+    "": ""
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.214882773,
+    "Population by Country (Clio Infra)": 1058523000,
+    "": ""
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.171681793,
+    "Population by Country (Clio Infra)": 1135185000,
+    "": ""
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.140276744,
+    "Population by Country (Clio Infra)": 1198915000,
+    "": ""
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.113575003,
+    "Population by Country (Clio Infra)": 1262645000,
+    "": ""
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.228157864,
+    "Population by Country (Clio Infra)": 21429658,
+    "": ""
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.189989533,
+    "Population by Country (Clio Infra)": 24030329,
+    "": ""
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.156124583,
+    "Population by Country (Clio Infra)": 26631000,
+    "": ""
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.128141218,
+    "Population by Country (Clio Infra)": 29794000,
+    "": ""
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.105854412,
+    "Population by Country (Clio Infra)": 32957000,
+    "": ""
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.087160517,
+    "Population by Country (Clio Infra)": 36387000,
+    "": ""
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.071809084,
+    "Population by Country (Clio Infra)": 39817000,
+    "": ""
+  },
+  {
+    "Entity": "Comoros",
+    "Code": "COM",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.902190049,
+    "Population by Country (Clio Infra)": 236252,
+    "": ""
+  },
+  {
+    "Entity": "Comoros",
+    "Code": "COM",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.86214564,
+    "Population by Country (Clio Infra)": 284882.5,
+    "": ""
+  },
+  {
+    "Entity": "Comoros",
+    "Code": "COM",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.790152654,
+    "Population by Country (Clio Infra)": 333513,
+    "": ""
+  },
+  {
+    "Entity": "Comoros",
+    "Code": "COM",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.696223161,
+    "Population by Country (Clio Infra)": 381261.5,
+    "": ""
+  },
+  {
+    "Entity": "Comoros",
+    "Code": "COM",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.60399552,
+    "Population by Country (Clio Infra)": 429010,
+    "": ""
+  },
+  {
+    "Entity": "Comoros",
+    "Code": "COM",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.521063051,
+    "Population by Country (Clio Infra)": 504005,
+    "": ""
+  },
+  {
+    "Entity": "Comoros",
+    "Code": "COM",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.446281818,
+    "Population by Country (Clio Infra)": 579000,
+    "": ""
+  },
+  {
+    "Entity": "Costa Rica",
+    "Code": "CRI",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.16396032,
+    "Population by Country (Clio Infra)": 1735523,
+    "": ""
+  },
+  {
+    "Entity": "Costa Rica",
+    "Code": "CRI",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.133276284,
+    "Population by Country (Clio Infra)": 2017323.5,
+    "": ""
+  },
+  {
+    "Entity": "Costa Rica",
+    "Code": "CRI",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.108064863,
+    "Population by Country (Clio Infra)": 2299124,
+    "": ""
+  },
+  {
+    "Entity": "Costa Rica",
+    "Code": "CRI",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.089730525,
+    "Population by Country (Clio Infra)": 2663149.5,
+    "": ""
+  },
+  {
+    "Entity": "Costa Rica",
+    "Code": "CRI",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.07678109,
+    "Population by Country (Clio Infra)": 3027175,
+    "": ""
+  },
+  {
+    "Entity": "Costa Rica",
+    "Code": "CRI",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.065036912,
+    "Population by Country (Clio Infra)": 3368866.5,
+    "": ""
+  },
+  {
+    "Entity": "Costa Rica",
+    "Code": "CRI",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.05434021,
+    "Population by Country (Clio Infra)": 3710558,
+    "": ""
+  },
+  {
+    "Entity": "Cote d'Ivoire",
+    "Code": "CIV",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.875413246,
+    "Population by Country (Clio Infra)": 5579000,
+    "": ""
+  },
+  {
+    "Entity": "Cote d'Ivoire",
+    "Code": "CIV",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.819557436,
+    "Population by Country (Clio Infra)": 7086000,
+    "": ""
+  },
+  {
+    "Entity": "Cote d'Ivoire",
+    "Code": "CIV",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.763623933,
+    "Population by Country (Clio Infra)": 8593000,
+    "": ""
+  },
+  {
+    "Entity": "Cote d'Ivoire",
+    "Code": "CIV",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.717736653,
+    "Population by Country (Clio Infra)": 10542000,
+    "": ""
+  },
+  {
+    "Entity": "Cote d'Ivoire",
+    "Code": "CIV",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.65703426,
+    "Population by Country (Clio Infra)": 12491000,
+    "": ""
+  },
+  {
+    "Entity": "Cote d'Ivoire",
+    "Code": "CIV",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.601508251,
+    "Population by Country (Clio Infra)": 14688000,
+    "": ""
+  },
+  {
+    "Entity": "Cote d'Ivoire",
+    "Code": "CIV",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.5529553,
+    "Population by Country (Clio Infra)": 16885000,
+    "": ""
+  },
+  {
+    "Entity": "Croatia",
+    "Code": "HRV",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.12814494,
+    "Population by Country (Clio Infra)": 4205389,
+    "": ""
+  },
+  {
+    "Entity": "Croatia",
+    "Code": "HRV",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.101983386,
+    "Population by Country (Clio Infra)": 4294194.5,
+    "": ""
+  },
+  {
+    "Entity": "Croatia",
+    "Code": "HRV",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.080556312,
+    "Population by Country (Clio Infra)": 4383000,
+    "": ""
+  },
+  {
+    "Entity": "Croatia",
+    "Code": "HRV",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.062201245,
+    "Population by Country (Clio Infra)": 4445673.5,
+    "": ""
+  },
+  {
+    "Entity": "Croatia",
+    "Code": "HRV",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.047437574,
+    "Population by Country (Clio Infra)": 4508347,
+    "": ""
+  },
+  {
+    "Entity": "Croatia",
+    "Code": "HRV",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.03647732,
+    "Population by Country (Clio Infra)": 4459588.5,
+    "": ""
+  },
+  {
+    "Entity": "Croatia",
+    "Code": "HRV",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.028062175,
+    "Population by Country (Clio Infra)": 4410830,
+    "": ""
+  },
+  {
+    "Entity": "Cuba",
+    "Code": "CUB",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.057089355,
+    "Population by Country (Clio Infra)": 8542746,
+    "": ""
+  },
+  {
+    "Entity": "Cuba",
+    "Code": "CUB",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.040807054,
+    "Population by Country (Clio Infra)": 9097860.5,
+    "": ""
+  },
+  {
+    "Entity": "Cuba",
+    "Code": "CUB",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.027515805,
+    "Population by Country (Clio Infra)": 9652975,
+    "": ""
+  },
+  {
+    "Entity": "Cuba",
+    "Code": "CUB",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.018215852,
+    "Population by Country (Clio Infra)": 10082987.5,
+    "": ""
+  },
+  {
+    "Entity": "Cuba",
+    "Code": "CUB",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.011880185,
+    "Population by Country (Clio Infra)": 10513000,
+    "": ""
+  },
+  {
+    "Entity": "Cuba",
+    "Code": "CUB",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.007276429,
+    "Population by Country (Clio Infra)": 10809500,
+    "": ""
+  },
+  {
+    "Entity": "Cuba",
+    "Code": "CUB",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.004822124,
+    "Population by Country (Clio Infra)": 11106000,
+    "": ""
+  },
+  {
+    "Entity": "Cyprus",
+    "Code": "CYP",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.144163232,
+    "Population by Country (Clio Infra)": 614600,
+    "": ""
+  },
+  {
+    "Entity": "Cyprus",
+    "Code": "CYP",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.10298843,
+    "Population by Country (Clio Infra)": 612800,
+    "": ""
+  },
+  {
+    "Entity": "Cyprus",
+    "Code": "CYP",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.078676709,
+    "Population by Country (Clio Infra)": 611000,
+    "": ""
+  },
+  {
+    "Entity": "Cyprus",
+    "Code": "CYP",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.06019426,
+    "Population by Country (Clio Infra)": 646174.5,
+    "": ""
+  },
+  {
+    "Entity": "Cyprus",
+    "Code": "CYP",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.045399852,
+    "Population by Country (Clio Infra)": 681349,
+    "": ""
+  },
+  {
+    "Entity": "Cyprus",
+    "Code": "CYP",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.030388285,
+    "Population by Country (Clio Infra)": 719856,
+    "": ""
+  },
+  {
+    "Entity": "Cyprus",
+    "Code": "CYP",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.020606339,
+    "Population by Country (Clio Infra)": 758363,
+    "": ""
+  },
+  {
+    "Entity": "Czech Republic",
+    "Code": "CZE",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.007304765,
+    "Population by Country (Clio Infra)": 9795226,
+    "": ""
+  },
+  {
+    "Entity": "Czech Republic",
+    "Code": "CZE",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.006757676,
+    "Population by Country (Clio Infra)": 10041976,
+    "": ""
+  },
+  {
+    "Entity": "Czech Republic",
+    "Code": "CZE",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.006228686,
+    "Population by Country (Clio Infra)": 10288726,
+    "": ""
+  },
+  {
+    "Entity": "Czech Republic",
+    "Code": "CZE",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.005740575,
+    "Population by Country (Clio Infra)": 10299120,
+    "": ""
+  },
+  {
+    "Entity": "Czech Republic",
+    "Code": "CZE",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.005279609,
+    "Population by Country (Clio Infra)": 10309514,
+    "": ""
+  },
+  {
+    "Entity": "Czech Republic",
+    "Code": "CZE",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.004906257,
+    "Population by Country (Clio Infra)": 10289821,
+    "": ""
+  },
+  {
+    "Entity": "Czech Republic",
+    "Code": "CZE",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.004445785,
+    "Population by Country (Clio Infra)": 10270128,
+    "": ""
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.0000012,
+    "Population by Country (Clio Infra)": 4928757,
+    "": ""
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 7.31e-7,
+    "Population by Country (Clio Infra)": 5025892,
+    "": ""
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 3.96e-7,
+    "Population by Country (Clio Infra)": 5123027,
+    "": ""
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 1.94e-7,
+    "Population by Country (Clio Infra)": 5131990.5,
+    "": ""
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 7.81e-8,
+    "Population by Country (Clio Infra)": 5140954,
+    "": ""
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 1.08e-8,
+    "Population by Country (Clio Infra)": 5239185,
+    "": ""
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 1.91e-9,
+    "Population by Country (Clio Infra)": 5337416,
+    "": ""
+  },
+  {
+    "Entity": "Dominican Republic",
+    "Code": "DOM",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.027666277,
+    "Population by Country (Clio Infra)": 4422755,
+    "": ""
+  },
+  {
+    "Entity": "Dominican Republic",
+    "Code": "DOM",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.02548872,
+    "Population by Country (Clio Infra)": 5059805,
+    "": ""
+  },
+  {
+    "Entity": "Dominican Republic",
+    "Code": "DOM",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.022815047,
+    "Population by Country (Clio Infra)": 5696855,
+    "": ""
+  },
+  {
+    "Entity": "Dominican Republic",
+    "Code": "DOM",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.02037867,
+    "Population by Country (Clio Infra)": 6389927.5,
+    "": ""
+  },
+  {
+    "Entity": "Dominican Republic",
+    "Code": "DOM",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.018144361,
+    "Population by Country (Clio Infra)": 7083000,
+    "": ""
+  },
+  {
+    "Entity": "Dominican Republic",
+    "Code": "DOM",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.015992539,
+    "Population by Country (Clio Infra)": 7746500,
+    "": ""
+  },
+  {
+    "Entity": "Dominican Republic",
+    "Code": "DOM",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.013845333,
+    "Population by Country (Clio Infra)": 8410000,
+    "": ""
+  },
+  {
+    "Entity": "Ecuador",
+    "Code": "ECU",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.232023471,
+    "Population by Country (Clio Infra)": 5939246,
+    "": ""
+  },
+  {
+    "Entity": "Ecuador",
+    "Code": "ECU",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.199290591,
+    "Population by Country (Clio Infra)": 6929872.5,
+    "": ""
+  },
+  {
+    "Entity": "Ecuador",
+    "Code": "ECU",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.168267465,
+    "Population by Country (Clio Infra)": 7920499,
+    "": ""
+  },
+  {
+    "Entity": "Ecuador",
+    "Code": "ECU",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.140524042,
+    "Population by Country (Clio Infra)": 9119267.5,
+    "": ""
+  },
+  {
+    "Entity": "Ecuador",
+    "Code": "ECU",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.117389488,
+    "Population by Country (Clio Infra)": 10318036,
+    "": ""
+  },
+  {
+    "Entity": "Ecuador",
+    "Code": "ECU",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.098301485,
+    "Population by Country (Clio Infra)": 11382018,
+    "": ""
+  },
+  {
+    "Entity": "Ecuador",
+    "Code": "ECU",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.083905532,
+    "Population by Country (Clio Infra)": 12446000,
+    "": ""
+  },
+  {
+    "Entity": "Egypt",
+    "Code": "EGY",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.676210623,
+    "Population by Country (Clio Infra)": 33574026,
+    "": ""
+  },
+  {
+    "Entity": "Egypt",
+    "Code": "EGY",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.612823599,
+    "Population by Country (Clio Infra)": 38104120.5,
+    "": ""
+  },
+  {
+    "Entity": "Egypt",
+    "Code": "EGY",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.560675335,
+    "Population by Country (Clio Infra)": 42634215,
+    "": ""
+  },
+  {
+    "Entity": "Egypt",
+    "Code": "EGY",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.502114326,
+    "Population by Country (Clio Infra)": 49658607.5,
+    "": ""
+  },
+  {
+    "Entity": "Egypt",
+    "Code": "EGY",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.443442328,
+    "Population by Country (Clio Infra)": 56683000,
+    "": ""
+  },
+  {
+    "Entity": "Egypt",
+    "Code": "EGY",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.380817248,
+    "Population by Country (Clio Infra)": 63597500,
+    "": ""
+  },
+  {
+    "Entity": "Egypt",
+    "Code": "EGY",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.32560332,
+    "Population by Country (Clio Infra)": 70512000,
+    "": ""
+  },
+  {
+    "Entity": "Eritrea",
+    "Code": "ERI",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.82014966,
+    "Population by Country (Clio Infra)": 2160460,
+    "": ""
+  },
+  {
+    "Entity": "Eritrea",
+    "Code": "ERI",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.784366814,
+    "Population by Country (Clio Infra)": 2364600.5,
+    "": ""
+  },
+  {
+    "Entity": "Eritrea",
+    "Code": "ERI",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.760674027,
+    "Population by Country (Clio Infra)": 2568741,
+    "": ""
+  },
+  {
+    "Entity": "Eritrea",
+    "Code": "ERI",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.705104344,
+    "Population by Country (Clio Infra)": 2853370.5,
+    "": ""
+  },
+  {
+    "Entity": "Eritrea",
+    "Code": "ERI",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.612561119,
+    "Population by Country (Clio Infra)": 3138000,
+    "": ""
+  },
+  {
+    "Entity": "Eritrea",
+    "Code": "ERI",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.528279754,
+    "Population by Country (Clio Infra)": 3667500,
+    "": ""
+  },
+  {
+    "Entity": "Eritrea",
+    "Code": "ERI",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.436803388,
+    "Population by Country (Clio Infra)": 4197000,
+    "": ""
+  },
+  {
+    "Entity": "Estonia",
+    "Code": "EST",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.027675261,
+    "Population by Country (Clio Infra)": 1363183,
+    "": ""
+  },
+  {
+    "Entity": "Estonia",
+    "Code": "EST",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.020990929,
+    "Population by Country (Clio Infra)": 1422689.5,
+    "": ""
+  },
+  {
+    "Entity": "Estonia",
+    "Code": "EST",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.016156049,
+    "Population by Country (Clio Infra)": 1482196,
+    "": ""
+  },
+  {
+    "Entity": "Estonia",
+    "Code": "EST",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.012608734,
+    "Population by Country (Clio Infra)": 1525759,
+    "": ""
+  },
+  {
+    "Entity": "Estonia",
+    "Code": "EST",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.009822068,
+    "Population by Country (Clio Infra)": 1569322,
+    "": ""
+  },
+  {
+    "Entity": "Estonia",
+    "Code": "EST",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.007930613,
+    "Population by Country (Clio Infra)": 1474578.5,
+    "": ""
+  },
+  {
+    "Entity": "Estonia",
+    "Code": "EST",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.006883587,
+    "Population by Country (Clio Infra)": 1379835,
+    "": ""
+  },
+  {
+    "Entity": "Ethiopia",
+    "Code": "ETH",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.955314945,
+    "Population by Country (Clio Infra)": 29468504,
+    "": ""
+  },
+  {
+    "Entity": "Ethiopia",
+    "Code": "ETH",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.941763978,
+    "Population by Country (Clio Infra)": 32752252,
+    "": ""
+  },
+  {
+    "Entity": "Ethiopia",
+    "Code": "ETH",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.917563435,
+    "Population by Country (Clio Infra)": 36036000,
+    "": ""
+  },
+  {
+    "Entity": "Ethiopia",
+    "Code": "ETH",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.889813647,
+    "Population by Country (Clio Infra)": 42216500,
+    "": ""
+  },
+  {
+    "Entity": "Ethiopia",
+    "Code": "ETH",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.852233347,
+    "Population by Country (Clio Infra)": 48397000,
+    "": ""
+  },
+  {
+    "Entity": "Ethiopia",
+    "Code": "ETH",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.813740208,
+    "Population by Country (Clio Infra)": 56281000,
+    "": ""
+  },
+  {
+    "Entity": "Ethiopia",
+    "Code": "ETH",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.788883432,
+    "Population by Country (Clio Infra)": 64165000,
+    "": ""
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 7.03e-7,
+    "Population by Country (Clio Infra)": 4606307,
+    "": ""
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 3.88e-7,
+    "Population by Country (Clio Infra)": 4692921,
+    "": ""
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 2.09e-7,
+    "Population by Country (Clio Infra)": 4779535,
+    "": ""
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 1.02e-7,
+    "Population by Country (Clio Infra)": 4882983,
+    "": ""
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 3.76e-8,
+    "Population by Country (Clio Infra)": 4986431,
+    "": ""
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 5.06e-9,
+    "Population by Country (Clio Infra)": 5077513,
+    "": ""
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 4.25e-10,
+    "Population by Country (Clio Infra)": 5168595,
+    "": ""
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.011099406,
+    "Population by Country (Clio Infra)": 51918000,
+    "": ""
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.011354052,
+    "Population by Country (Clio Infra)": 53514000,
+    "": ""
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.011301007,
+    "Population by Country (Clio Infra)": 55110000,
+    "": ""
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.010978479,
+    "Population by Country (Clio Infra)": 56639000,
+    "": ""
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.01057192,
+    "Population by Country (Clio Infra)": 58168000,
+    "": ""
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.010235766,
+    "Population by Country (Clio Infra)": 59652500,
+    "": ""
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.009768233,
+    "Population by Country (Clio Infra)": 61137000,
+    "": ""
+  },
+  {
+    "Entity": "Gabon",
+    "Code": "GAB",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.671005832,
+    "Population by Country (Clio Infra)": 514597,
+    "": ""
+  },
+  {
+    "Entity": "Gabon",
+    "Code": "GAB",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.567592376,
+    "Population by Country (Clio Infra)": 614049.5,
+    "": ""
+  },
+  {
+    "Entity": "Gabon",
+    "Code": "GAB",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.469941087,
+    "Population by Country (Clio Infra)": 713502,
+    "": ""
+  },
+  {
+    "Entity": "Gabon",
+    "Code": "GAB",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.383536212,
+    "Population by Country (Clio Infra)": 825751,
+    "": ""
+  },
+  {
+    "Entity": "Gabon",
+    "Code": "GAB",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.308871138,
+    "Population by Country (Clio Infra)": 938000,
+    "": ""
+  },
+  {
+    "Entity": "Gabon",
+    "Code": "GAB",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.24540753,
+    "Population by Country (Clio Infra)": 1087000,
+    "": ""
+  },
+  {
+    "Entity": "Gabon",
+    "Code": "GAB",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.188250462,
+    "Population by Country (Clio Infra)": 1236000,
+    "": ""
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.00000131,
+    "Population by Country (Clio Infra)": 77783164,
+    "": ""
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 7.37e-7,
+    "Population by Country (Clio Infra)": 78040534,
+    "": ""
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 3.77e-7,
+    "Population by Country (Clio Infra)": 78297904,
+    "": ""
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 1.68e-7,
+    "Population by Country (Clio Infra)": 78839149,
+    "": ""
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 6.29e-8,
+    "Population by Country (Clio Infra)": 79380394,
+    "": ""
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 8.45e-9,
+    "Population by Country (Clio Infra)": 80784151.5,
+    "": ""
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 1.03e-9,
+    "Population by Country (Clio Infra)": 82187909,
+    "": ""
+  },
+  {
+    "Entity": "Ghana",
+    "Code": "GHA",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.624245514,
+    "Population by Country (Clio Infra)": 8788945,
+    "": ""
+  },
+  {
+    "Entity": "Ghana",
+    "Code": "GHA",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.557038757,
+    "Population by Country (Clio Infra)": 9902972.5,
+    "": ""
+  },
+  {
+    "Entity": "Ghana",
+    "Code": "GHA",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.506898114,
+    "Population by Country (Clio Infra)": 11017000,
+    "": ""
+  },
+  {
+    "Entity": "Ghana",
+    "Code": "GHA",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.455854441,
+    "Population by Country (Clio Infra)": 13215500,
+    "": ""
+  },
+  {
+    "Entity": "Ghana",
+    "Code": "GHA",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.406714655,
+    "Population by Country (Clio Infra)": 15414000,
+    "": ""
+  },
+  {
+    "Entity": "Ghana",
+    "Code": "GHA",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.35146128,
+    "Population by Country (Clio Infra)": 17575000,
+    "": ""
+  },
+  {
+    "Entity": "Ghana",
+    "Code": "GHA",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.297430282,
+    "Population by Country (Clio Infra)": 19736000,
+    "": ""
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.16016724,
+    "Population by Country (Clio Infra)": 8792806,
+    "": ""
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.13202249,
+    "Population by Country (Clio Infra)": 9217655.5,
+    "": ""
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.107243477,
+    "Population by Country (Clio Infra)": 9642505,
+    "": ""
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.084520193,
+    "Population by Country (Clio Infra)": 9886054,
+    "": ""
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.067235135,
+    "Population by Country (Clio Infra)": 10129603,
+    "": ""
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.051553063,
+    "Population by Country (Clio Infra)": 10344356.5,
+    "": ""
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.040349148,
+    "Population by Country (Clio Infra)": 10559110,
+    "": ""
+  },
+  {
+    "Entity": "Guatemala",
+    "Code": "GTM",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.542787448,
+    "Population by Country (Clio Infra)": 5264000,
+    "": ""
+  },
+  {
+    "Entity": "Guatemala",
+    "Code": "GTM",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.505693508,
+    "Population by Country (Clio Infra)": 5957000,
+    "": ""
+  },
+  {
+    "Entity": "Guatemala",
+    "Code": "GTM",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.467297745,
+    "Population by Country (Clio Infra)": 6650000,
+    "": ""
+  },
+  {
+    "Entity": "Guatemala",
+    "Code": "GTM",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.424286058,
+    "Population by Country (Clio Infra)": 7808000,
+    "": ""
+  },
+  {
+    "Entity": "Guatemala",
+    "Code": "GTM",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.382068329,
+    "Population by Country (Clio Infra)": 8966000,
+    "": ""
+  },
+  {
+    "Entity": "Guatemala",
+    "Code": "GTM",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.34198381,
+    "Population by Country (Clio Infra)": 10025500,
+    "": ""
+  },
+  {
+    "Entity": "Guatemala",
+    "Code": "GTM",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.302256642,
+    "Population by Country (Clio Infra)": 11085000,
+    "": ""
+  },
+  {
+    "Entity": "Guinea",
+    "Code": "GIN",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.932477055,
+    "Population by Country (Clio Infra)": 3643000,
+    "": ""
+  },
+  {
+    "Entity": "Guinea",
+    "Code": "GIN",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.899643712,
+    "Population by Country (Clio Infra)": 4045000,
+    "": ""
+  },
+  {
+    "Entity": "Guinea",
+    "Code": "GIN",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.87002591,
+    "Population by Country (Clio Infra)": 4447000,
+    "": ""
+  },
+  {
+    "Entity": "Guinea",
+    "Code": "GIN",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.833622087,
+    "Population by Country (Clio Infra)": 5282500,
+    "": ""
+  },
+  {
+    "Entity": "Guinea",
+    "Code": "GIN",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.805559932,
+    "Population by Country (Clio Infra)": 6118000,
+    "": ""
+  },
+  {
+    "Entity": "Guinea",
+    "Code": "GIN",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.767322508,
+    "Population by Country (Clio Infra)": 7234000,
+    "": ""
+  },
+  {
+    "Entity": "Guinea",
+    "Code": "GIN",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.721401902,
+    "Population by Country (Clio Infra)": 8350000,
+    "": ""
+  },
+  {
+    "Entity": "Guyana",
+    "Code": "GUY",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.053036208,
+    "Population by Country (Clio Infra)": 714811,
+    "": ""
+  },
+  {
+    "Entity": "Guyana",
+    "Code": "GUY",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.045978707,
+    "Population by Country (Clio Infra)": 737081.5,
+    "": ""
+  },
+  {
+    "Entity": "Guyana",
+    "Code": "GUY",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.040294682,
+    "Population by Country (Clio Infra)": 759352,
+    "": ""
+  },
+  {
+    "Entity": "Guyana",
+    "Code": "GUY",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.036336051,
+    "Population by Country (Clio Infra)": 755127.5,
+    "": ""
+  },
+  {
+    "Entity": "Guyana",
+    "Code": "GUY",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.033130431,
+    "Population by Country (Clio Infra)": 750903,
+    "": ""
+  },
+  {
+    "Entity": "Guyana",
+    "Code": "GUY",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.029941857,
+    "Population by Country (Clio Infra)": 753037,
+    "": ""
+  },
+  {
+    "Entity": "Guyana",
+    "Code": "GUY",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.026685944,
+    "Population by Country (Clio Infra)": 755171,
+    "": ""
+  },
+  {
+    "Entity": "Haiti",
+    "Code": "HTI",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.705318721,
+    "Population by Country (Clio Infra)": 4541000,
+    "": ""
+  },
+  {
+    "Entity": "Haiti",
+    "Code": "HTI",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.659767857,
+    "Population by Country (Clio Infra)": 4870500,
+    "": ""
+  },
+  {
+    "Entity": "Haiti",
+    "Code": "HTI",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.607957571,
+    "Population by Country (Clio Infra)": 5200000,
+    "": ""
+  },
+  {
+    "Entity": "Haiti",
+    "Code": "HTI",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.544806985,
+    "Population by Country (Clio Infra)": 5744500,
+    "": ""
+  },
+  {
+    "Entity": "Haiti",
+    "Code": "HTI",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.485543034,
+    "Population by Country (Clio Infra)": 6289000,
+    "": ""
+  },
+  {
+    "Entity": "Haiti",
+    "Code": "HTI",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.412373059,
+    "Population by Country (Clio Infra)": 6964000,
+    "": ""
+  },
+  {
+    "Entity": "Haiti",
+    "Code": "HTI",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.340428821,
+    "Population by Country (Clio Infra)": 7639000,
+    "": ""
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.477021872,
+    "Population by Country (Clio Infra)": 2760666,
+    "": ""
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.420981347,
+    "Population by Country (Clio Infra)": 3081303,
+    "": ""
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.368718902,
+    "Population by Country (Clio Infra)": 3401940,
+    "": ""
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.31983523,
+    "Population by Country (Clio Infra)": 4097105.5,
+    "": ""
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.279048583,
+    "Population by Country (Clio Infra)": 4792271,
+    "": ""
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.243357351,
+    "Population by Country (Clio Infra)": 5569964.5,
+    "": ""
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.212252108,
+    "Population by Country (Clio Infra)": 6347658,
+    "": ""
+  },
+  {
+    "Entity": "Hong Kong",
+    "Code": "HKG",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.26485709,
+    "Population by Country (Clio Infra)": 0,
+    "": ""
+  },
+  {
+    "Entity": "Hong Kong",
+    "Code": "HKG",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.214623044,
+    "Population by Country (Clio Infra)": 0,
+    "": ""
+  },
+  {
+    "Entity": "Hong Kong",
+    "Code": "HKG",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.163880299,
+    "Population by Country (Clio Infra)": 0,
+    "": ""
+  },
+  {
+    "Entity": "Hong Kong",
+    "Code": "HKG",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.130685075,
+    "Population by Country (Clio Infra)": 0,
+    "": ""
+  },
+  {
+    "Entity": "Hong Kong",
+    "Code": "HKG",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.102091683,
+    "Population by Country (Clio Infra)": 0,
+    "": ""
+  },
+  {
+    "Entity": "Hong Kong",
+    "Code": "HKG",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.077994347,
+    "Population by Country (Clio Infra)": 0,
+    "": ""
+  },
+  {
+    "Entity": "Hong Kong",
+    "Code": "HKG",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.059851645,
+    "Population by Country (Clio Infra)": 0,
+    "": ""
+  },
+  {
+    "Entity": "Hungary",
+    "Code": "HUN",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.050715899,
+    "Population by Country (Clio Infra)": 10337004,
+    "": ""
+  },
+  {
+    "Entity": "Hungary",
+    "Code": "HUN",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.041049817,
+    "Population by Country (Clio Infra)": 10524063,
+    "": ""
+  },
+  {
+    "Entity": "Hungary",
+    "Code": "HUN",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.03370041,
+    "Population by Country (Clio Infra)": 10711122,
+    "": ""
+  },
+  {
+    "Entity": "Hungary",
+    "Code": "HUN",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.026508891,
+    "Population by Country (Clio Infra)": 10541500,
+    "": ""
+  },
+  {
+    "Entity": "Hungary",
+    "Code": "HUN",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.020887424,
+    "Population by Country (Clio Infra)": 10371878,
+    "": ""
+  },
+  {
+    "Entity": "Hungary",
+    "Code": "HUN",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.01655468,
+    "Population by Country (Clio Infra)": 10254663.5,
+    "": ""
+  },
+  {
+    "Entity": "Hungary",
+    "Code": "HUN",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.013870019,
+    "Population by Country (Clio Infra)": 10137449,
+    "": ""
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.625368612,
+    "Population by Country (Clio Infra)": 541000000,
+    "": ""
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.593554146,
+    "Population by Country (Clio Infra)": 610000000,
+    "": ""
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.563377664,
+    "Population by Country (Clio Infra)": 679000000,
+    "": ""
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.53271858,
+    "Population by Country (Clio Infra)": 759000000,
+    "": ""
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.498398726,
+    "Population by Country (Clio Infra)": 839000000,
+    "": ""
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.457504214,
+    "Population by Country (Clio Infra)": 921562000,
+    "": ""
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.413445464,
+    "Population by Country (Clio Infra)": 1004124000,
+    "": ""
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.402464936,
+    "Population by Country (Clio Infra)": 0,
+    "": ""
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.337488845,
+    "Population by Country (Clio Infra)": 0,
+    "": ""
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.276832932,
+    "Population by Country (Clio Infra)": 0,
+    "": ""
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.221934857,
+    "Population by Country (Clio Infra)": 0,
+    "": ""
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.176166855,
+    "Population by Country (Clio Infra)": 0,
+    "": ""
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.138792706,
+    "Population by Country (Clio Infra)": 0,
+    "": ""
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.109529866,
+    "Population by Country (Clio Infra)": 0,
+    "": ""
+  },
+  {
+    "Entity": "Iran",
+    "Code": "IRN",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.62599261,
+    "Population by Country (Clio Infra)": 28854000,
+    "": ""
+  },
+  {
+    "Entity": "Iran",
+    "Code": "IRN",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.563357295,
+    "Population by Country (Clio Infra)": 34138000,
+    "": ""
+  },
+  {
+    "Entity": "Iran",
+    "Code": "IRN",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.481275473,
+    "Population by Country (Clio Infra)": 39422000,
+    "": ""
+  },
+  {
+    "Entity": "Iran",
+    "Code": "IRN",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.403187574,
+    "Population by Country (Clio Infra)": 48045500,
+    "": ""
+  },
+  {
+    "Entity": "Iran",
+    "Code": "IRN",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.333721168,
+    "Population by Country (Clio Infra)": 56669000,
+    "": ""
+  },
+  {
+    "Entity": "Iran",
+    "Code": "IRN",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.273343392,
+    "Population by Country (Clio Infra)": 59971000,
+    "": ""
+  },
+  {
+    "Entity": "Iran",
+    "Code": "IRN",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.213655441,
+    "Population by Country (Clio Infra)": 63273000,
+    "": ""
+  },
+  {
+    "Entity": "Ireland",
+    "Code": "IRL",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.011557383,
+    "Population by Country (Clio Infra)": 2950100,
+    "": ""
+  },
+  {
+    "Entity": "Ireland",
+    "Code": "IRL",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.010400839,
+    "Population by Country (Clio Infra)": 3175550,
+    "": ""
+  },
+  {
+    "Entity": "Ireland",
+    "Code": "IRL",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.009380436,
+    "Population by Country (Clio Infra)": 3401000,
+    "": ""
+  },
+  {
+    "Entity": "Ireland",
+    "Code": "IRL",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.0084442,
+    "Population by Country (Clio Infra)": 3454600,
+    "": ""
+  },
+  {
+    "Entity": "Ireland",
+    "Code": "IRL",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.007772576,
+    "Population by Country (Clio Infra)": 3508200,
+    "": ""
+  },
+  {
+    "Entity": "Ireland",
+    "Code": "IRL",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.00686682,
+    "Population by Country (Clio Infra)": 3649945,
+    "": ""
+  },
+  {
+    "Entity": "Ireland",
+    "Code": "IRL",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.005989391,
+    "Population by Country (Clio Infra)": 3791690,
+    "": ""
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.218558728,
+    "Population by Country (Clio Infra)": 53661100,
+    "": ""
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.185504493,
+    "Population by Country (Clio Infra)": 55056173.5,
+    "": ""
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.153713402,
+    "Population by Country (Clio Infra)": 56451247,
+    "": ""
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.12469847,
+    "Population by Country (Clio Infra)": 56597066.5,
+    "": ""
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.103862066,
+    "Population by Country (Clio Infra)": 56742886,
+    "": ""
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.084074721,
+    "Population by Country (Clio Infra)": 57231111.5,
+    "": ""
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.06848169,
+    "Population by Country (Clio Infra)": 57719337,
+    "": ""
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.000876205,
+    "Population by Country (Clio Infra)": 104344973,
+    "": ""
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.000424517,
+    "Population by Country (Clio Infra)": 110576141,
+    "": ""
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.00022799,
+    "Population by Country (Clio Infra)": 116807309,
+    "": ""
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.00010609,
+    "Population by Country (Clio Infra)": 120172354,
+    "": ""
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.0000378,
+    "Population by Country (Clio Infra)": 123537399,
+    "": ""
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.00000169,
+    "Population by Country (Clio Infra)": 154046009,
+    "": ""
+  },
+  {
+    "Entity": "Jordan",
+    "Code": "JOR",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.356429645,
+    "Population by Country (Clio Infra)": 1502959,
+    "": ""
+  },
+  {
+    "Entity": "Jordan",
+    "Code": "JOR",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.296205991,
+    "Population by Country (Clio Infra)": 1832883,
+    "": ""
+  },
+  {
+    "Entity": "Jordan",
+    "Code": "JOR",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.24390415,
+    "Population by Country (Clio Infra)": 2162807,
+    "": ""
+  },
+  {
+    "Entity": "Jordan",
+    "Code": "JOR",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.195943017,
+    "Population by Country (Clio Infra)": 2712430.5,
+    "": ""
+  },
+  {
+    "Entity": "Jordan",
+    "Code": "JOR",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.147829317,
+    "Population by Country (Clio Infra)": 3262054,
+    "": ""
+  },
+  {
+    "Entity": "Jordan",
+    "Code": "JOR",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.104056052,
+    "Population by Country (Clio Infra)": 4130309,
+    "": ""
+  },
+  {
+    "Entity": "Jordan",
+    "Code": "JOR",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.080528478,
+    "Population by Country (Clio Infra)": 4998564,
+    "": ""
+  },
+  {
+    "Entity": "Kazakhstan",
+    "Code": "KAZ",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.040511875,
+    "Population by Country (Clio Infra)": 13106377,
+    "": ""
+  },
+  {
+    "Entity": "Kazakhstan",
+    "Code": "KAZ",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.032010504,
+    "Population by Country (Clio Infra)": 14036547.5,
+    "": ""
+  },
+  {
+    "Entity": "Kazakhstan",
+    "Code": "KAZ",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.025263207,
+    "Population by Country (Clio Infra)": 14966718,
+    "": ""
+  },
+  {
+    "Entity": "Kazakhstan",
+    "Code": "KAZ",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.020144061,
+    "Population by Country (Clio Infra)": 15682424.5,
+    "": ""
+  },
+  {
+    "Entity": "Kazakhstan",
+    "Code": "KAZ",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.016096538,
+    "Population by Country (Clio Infra)": 16398131,
+    "": ""
+  },
+  {
+    "Entity": "Kazakhstan",
+    "Code": "KAZ",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.012921867,
+    "Population by Country (Clio Infra)": 15715135.5,
+    "": ""
+  },
+  {
+    "Entity": "Kazakhstan",
+    "Code": "KAZ",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.009855222,
+    "Population by Country (Clio Infra)": 15032140,
+    "": ""
+  },
+  {
+    "Entity": "Kenya",
+    "Code": "KEN",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.509244232,
+    "Population by Country (Clio Infra)": 11247182,
+    "": ""
+  },
+  {
+    "Entity": "Kenya",
+    "Code": "KEN",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.432931568,
+    "Population by Country (Clio Infra)": 13789291.5,
+    "": ""
+  },
+  {
+    "Entity": "Kenya",
+    "Code": "KEN",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.355479727,
+    "Population by Country (Clio Infra)": 16331401,
+    "": ""
+  },
+  {
+    "Entity": "Kenya",
+    "Code": "KEN",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.289858799,
+    "Population by Country (Clio Infra)": 19842700.5,
+    "": ""
+  },
+  {
+    "Entity": "Kenya",
+    "Code": "KEN",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.234909279,
+    "Population by Country (Clio Infra)": 23354000,
+    "": ""
+  },
+  {
+    "Entity": "Kenya",
+    "Code": "KEN",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.188810453,
+    "Population by Country (Clio Infra)": 26931000,
+    "": ""
+  },
+  {
+    "Entity": "Kenya",
+    "Code": "KEN",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.154616683,
+    "Population by Country (Clio Infra)": 30508000,
+    "": ""
+  },
+  {
+    "Entity": "Kyrgyzstan",
+    "Code": "KGZ",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.080817249,
+    "Population by Country (Clio Infra)": 2963792,
+    "": ""
+  },
+  {
+    "Entity": "Kyrgyzstan",
+    "Code": "KGZ",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.060895572,
+    "Population by Country (Clio Infra)": 3293260,
+    "": ""
+  },
+  {
+    "Entity": "Kyrgyzstan",
+    "Code": "KGZ",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.045917582,
+    "Population by Country (Clio Infra)": 3622728,
+    "": ""
+  },
+  {
+    "Entity": "Kyrgyzstan",
+    "Code": "KGZ",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.035354289,
+    "Population by Country (Clio Infra)": 4002607,
+    "": ""
+  },
+  {
+    "Entity": "Kyrgyzstan",
+    "Code": "KGZ",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.026301869,
+    "Population by Country (Clio Infra)": 4382486,
+    "": ""
+  },
+  {
+    "Entity": "Kyrgyzstan",
+    "Code": "KGZ",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.019337014,
+    "Population by Country (Clio Infra)": 4616770,
+    "": ""
+  },
+  {
+    "Entity": "Kyrgyzstan",
+    "Code": "KGZ",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.014054968,
+    "Population by Country (Clio Infra)": 4851054,
+    "": ""
+  },
+  {
+    "Entity": "Laos",
+    "Code": "LAO",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.629989279,
+    "Population by Country (Clio Infra)": 2844851,
+    "": ""
+  },
+  {
+    "Entity": "Laos",
+    "Code": "LAO",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.565167193,
+    "Population by Country (Clio Infra)": 3069005,
+    "": ""
+  },
+  {
+    "Entity": "Laos",
+    "Code": "LAO",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.51215006,
+    "Population by Country (Clio Infra)": 3293159,
+    "": ""
+  },
+  {
+    "Entity": "Laos",
+    "Code": "LAO",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.460872881,
+    "Population by Country (Clio Infra)": 3751805.5,
+    "": ""
+  },
+  {
+    "Entity": "Laos",
+    "Code": "LAO",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.419545519,
+    "Population by Country (Clio Infra)": 4210452,
+    "": ""
+  },
+  {
+    "Entity": "Laos",
+    "Code": "LAO",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.379731112,
+    "Population by Country (Clio Infra)": 4854092.5,
+    "": ""
+  },
+  {
+    "Entity": "Laos",
+    "Code": "LAO",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.333480574,
+    "Population by Country (Clio Infra)": 5497733,
+    "": ""
+  },
+  {
+    "Entity": "Latvia",
+    "Code": "LVA",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.00000102,
+    "Population by Country (Clio Infra)": 2361159,
+    "": ""
+  },
+  {
+    "Entity": "Latvia",
+    "Code": "LVA",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 5.98e-7,
+    "Population by Country (Clio Infra)": 2442851,
+    "": ""
+  },
+  {
+    "Entity": "Latvia",
+    "Code": "LVA",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 2.94e-7,
+    "Population by Country (Clio Infra)": 2524543,
+    "": ""
+  },
+  {
+    "Entity": "Latvia",
+    "Code": "LVA",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 1.34e-7,
+    "Population by Country (Clio Infra)": 2594066.5,
+    "": ""
+  },
+  {
+    "Entity": "Latvia",
+    "Code": "LVA",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 4.37e-8,
+    "Population by Country (Clio Infra)": 2663590,
+    "": ""
+  },
+  {
+    "Entity": "Latvia",
+    "Code": "LVA",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 6.14e-9,
+    "Population by Country (Clio Infra)": 2519884,
+    "": ""
+  },
+  {
+    "Entity": "Latvia",
+    "Code": "LVA",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 7.16e-10,
+    "Population by Country (Clio Infra)": 2376178,
+    "": ""
+  },
+  {
+    "Entity": "Lithuania",
+    "Code": "LTU",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.008809613,
+    "Population by Country (Clio Infra)": 3137562,
+    "": ""
+  },
+  {
+    "Entity": "Lithuania",
+    "Code": "LTU",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.00770806,
+    "Population by Country (Clio Infra)": 3286425.5,
+    "": ""
+  },
+  {
+    "Entity": "Lithuania",
+    "Code": "LTU",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.006716558,
+    "Population by Country (Clio Infra)": 3435289,
+    "": ""
+  },
+  {
+    "Entity": "Lithuania",
+    "Code": "LTU",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.005950505,
+    "Population by Country (Clio Infra)": 3565062.5,
+    "": ""
+  },
+  {
+    "Entity": "Lithuania",
+    "Code": "LTU",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.00537416,
+    "Population by Country (Clio Infra)": 3694836,
+    "": ""
+  },
+  {
+    "Entity": "Lithuania",
+    "Code": "LTU",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.004890213,
+    "Population by Country (Clio Infra)": 3674611.5,
+    "": ""
+  },
+  {
+    "Entity": "Lithuania",
+    "Code": "LTU",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.004390184,
+    "Population by Country (Clio Infra)": 3654387,
+    "": ""
+  },
+  {
+    "Entity": "Luxembourg",
+    "Code": "LUX",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.00000107,
+    "Population by Country (Clio Infra)": 339174,
+    "": ""
+  },
+  {
+    "Entity": "Luxembourg",
+    "Code": "LUX",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 5.88e-7,
+    "Population by Country (Clio Infra)": 351787,
+    "": ""
+  },
+  {
+    "Entity": "Luxembourg",
+    "Code": "LUX",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 2.9e-7,
+    "Population by Country (Clio Infra)": 364400,
+    "": ""
+  },
+  {
+    "Entity": "Luxembourg",
+    "Code": "LUX",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 1.32e-7,
+    "Population by Country (Clio Infra)": 373683,
+    "": ""
+  },
+  {
+    "Entity": "Luxembourg",
+    "Code": "LUX",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 4.88e-8,
+    "Population by Country (Clio Infra)": 382966,
+    "": ""
+  },
+  {
+    "Entity": "Luxembourg",
+    "Code": "LUX",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 1.25e-9,
+    "Population by Country (Clio Infra)": 410871.5,
+    "": ""
+  },
+  {
+    "Entity": "Luxembourg",
+    "Code": "LUX",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 1.97e-10,
+    "Population by Country (Clio Infra)": 438777,
+    "": ""
+  },
+  {
+    "Entity": "Macedonia",
+    "Code": "MKD",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.138921748,
+    "Population by Country (Clio Infra)": 1574407,
+    "": ""
+  },
+  {
+    "Entity": "Macedonia",
+    "Code": "MKD",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.110819667,
+    "Population by Country (Clio Infra)": 1683203.5,
+    "": ""
+  },
+  {
+    "Entity": "Macedonia",
+    "Code": "MKD",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.088738837,
+    "Population by Country (Clio Infra)": 1792000,
+    "": ""
+  },
+  {
+    "Entity": "Macedonia",
+    "Code": "MKD",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.071243104,
+    "Population by Country (Clio Infra)": 1826680.5,
+    "": ""
+  },
+  {
+    "Entity": "Macedonia",
+    "Code": "MKD",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.055753113,
+    "Population by Country (Clio Infra)": 1861361,
+    "": ""
+  },
+  {
+    "Entity": "Macedonia",
+    "Code": "MKD",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.043718416,
+    "Population by Country (Clio Infra)": 1937936.5,
+    "": ""
+  },
+  {
+    "Entity": "Macedonia",
+    "Code": "MKD",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.034302114,
+    "Population by Country (Clio Infra)": 2014512,
+    "": ""
+  },
+  {
+    "Entity": "Madagascar",
+    "Code": "MDG",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.435896369,
+    "Population by Country (Clio Infra)": 6765644,
+    "": ""
+  },
+  {
+    "Entity": "Madagascar",
+    "Code": "MDG",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.389024519,
+    "Population by Country (Clio Infra)": 7728322,
+    "": ""
+  },
+  {
+    "Entity": "Madagascar",
+    "Code": "MDG",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.343500999,
+    "Population by Country (Clio Infra)": 8691000,
+    "": ""
+  },
+  {
+    "Entity": "Madagascar",
+    "Code": "MDG",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.298648308,
+    "Population by Country (Clio Infra)": 10162000,
+    "": ""
+  },
+  {
+    "Entity": "Madagascar",
+    "Code": "MDG",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.271303837,
+    "Population by Country (Clio Infra)": 11633000,
+    "": ""
+  },
+  {
+    "Entity": "Madagascar",
+    "Code": "MDG",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.252657349,
+    "Population by Country (Clio Infra)": 13687500,
+    "": ""
+  },
+  {
+    "Entity": "Madagascar",
+    "Code": "MDG",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.235495043,
+    "Population by Country (Clio Infra)": 15742000,
+    "": ""
+  },
+  {
+    "Entity": "Malawi",
+    "Code": "MWI",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.585391904,
+    "Population by Country (Clio Infra)": 4508000,
+    "": ""
+  },
+  {
+    "Entity": "Malawi",
+    "Code": "MWI",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.553645993,
+    "Population by Country (Clio Infra)": 5318517.5,
+    "": ""
+  },
+  {
+    "Entity": "Malawi",
+    "Code": "MWI",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.51781349,
+    "Population by Country (Clio Infra)": 6129035,
+    "": ""
+  },
+  {
+    "Entity": "Malawi",
+    "Code": "MWI",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.476960224,
+    "Population by Country (Clio Infra)": 7832517.5,
+    "": ""
+  },
+  {
+    "Entity": "Malawi",
+    "Code": "MWI",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.437181646,
+    "Population by Country (Clio Infra)": 9536000,
+    "": ""
+  },
+  {
+    "Entity": "Malawi",
+    "Code": "MWI",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.393674928,
+    "Population by Country (Clio Infra)": 10548000,
+    "": ""
+  },
+  {
+    "Entity": "Malawi",
+    "Code": "MWI",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.339692252,
+    "Population by Country (Clio Infra)": 11560000,
+    "": ""
+  },
+  {
+    "Entity": "Malaysia",
+    "Code": "MYS",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.413544851,
+    "Population by Country (Clio Infra)": 10910216,
+    "": ""
+  },
+  {
+    "Entity": "Malaysia",
+    "Code": "MYS",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.340585556,
+    "Population by Country (Clio Infra)": 12337284,
+    "": ""
+  },
+  {
+    "Entity": "Malaysia",
+    "Code": "MYS",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.277585427,
+    "Population by Country (Clio Infra)": 13764352,
+    "": ""
+  },
+  {
+    "Entity": "Malaysia",
+    "Code": "MYS",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.227341015,
+    "Population by Country (Clio Infra)": 15635676,
+    "": ""
+  },
+  {
+    "Entity": "Malaysia",
+    "Code": "MYS",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.183960271,
+    "Population by Country (Clio Infra)": 17507000,
+    "": ""
+  },
+  {
+    "Entity": "Malaysia",
+    "Code": "MYS",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.147520085,
+    "Population by Country (Clio Infra)": 19655500,
+    "": ""
+  },
+  {
+    "Entity": "Malaysia",
+    "Code": "MYS",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.115614444,
+    "Population by Country (Clio Infra)": 21804000,
+    "": ""
+  },
+  {
+    "Entity": "Maldives",
+    "Code": "MDV",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.802042152,
+    "Population by Country (Clio Infra)": 114572,
+    "": ""
+  },
+  {
+    "Entity": "Maldives",
+    "Code": "MDV",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.754118863,
+    "Population by Country (Clio Infra)": 133786,
+    "": ""
+  },
+  {
+    "Entity": "Maldives",
+    "Code": "MDV",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.701154256,
+    "Population by Country (Clio Infra)": 153000,
+    "": ""
+  },
+  {
+    "Entity": "Maldives",
+    "Code": "MDV",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.620156996,
+    "Population by Country (Clio Infra)": 185000,
+    "": ""
+  },
+  {
+    "Entity": "Maldives",
+    "Code": "MDV",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.523907751,
+    "Population by Country (Clio Infra)": 217000,
+    "": ""
+  },
+  {
+    "Entity": "Maldives",
+    "Code": "MDV",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.422340389,
+    "Population by Country (Clio Infra)": 258500,
+    "": ""
+  },
+  {
+    "Entity": "Maldives",
+    "Code": "MDV",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.325708421,
+    "Population by Country (Clio Infra)": 300000,
+    "": ""
+  },
+  {
+    "Entity": "Mali",
+    "Code": "MLI",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.934025664,
+    "Population by Country (Clio Infra)": 5546000,
+    "": ""
+  },
+  {
+    "Entity": "Mali",
+    "Code": "MLI",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.902540605,
+    "Population by Country (Clio Infra)": 6152000,
+    "": ""
+  },
+  {
+    "Entity": "Mali",
+    "Code": "MLI",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.870859061,
+    "Population by Country (Clio Infra)": 6758000,
+    "": ""
+  },
+  {
+    "Entity": "Mali",
+    "Code": "MLI",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.843408615,
+    "Population by Country (Clio Infra)": 7421500,
+    "": ""
+  },
+  {
+    "Entity": "Mali",
+    "Code": "MLI",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.820372232,
+    "Population by Country (Clio Infra)": 8085000,
+    "": ""
+  },
+  {
+    "Entity": "Mali",
+    "Code": "MLI",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.798609325,
+    "Population by Country (Clio Infra)": 9067000,
+    "": ""
+  },
+  {
+    "Entity": "Mali",
+    "Code": "MLI",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.76598316,
+    "Population by Country (Clio Infra)": 10049000,
+    "": ""
+  },
+  {
+    "Entity": "Malta",
+    "Code": "MLT",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 8.2e-7,
+    "Population by Country (Clio Infra)": 325569,
+    "": ""
+  },
+  {
+    "Entity": "Malta",
+    "Code": "MLT",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 4.25e-7,
+    "Population by Country (Clio Infra)": 344785,
+    "": ""
+  },
+  {
+    "Entity": "Malta",
+    "Code": "MLT",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 2e-7,
+    "Population by Country (Clio Infra)": 364001,
+    "": ""
+  },
+  {
+    "Entity": "Malta",
+    "Code": "MLT",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 8.74e-8,
+    "Population by Country (Clio Infra)": 361554,
+    "": ""
+  },
+  {
+    "Entity": "Malta",
+    "Code": "MLT",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 2.93e-8,
+    "Population by Country (Clio Infra)": 359107,
+    "": ""
+  },
+  {
+    "Entity": "Malta",
+    "Code": "MLT",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 4.11e-9,
+    "Population by Country (Clio Infra)": 374527,
+    "": ""
+  },
+  {
+    "Entity": "Malta",
+    "Code": "MLT",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 6.8e-10,
+    "Population by Country (Clio Infra)": 389947,
+    "": ""
+  },
+  {
+    "Entity": "Mauritania",
+    "Code": "MRT",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.881508782,
+    "Population by Country (Clio Infra)": 1289420,
+    "": ""
+  },
+  {
+    "Entity": "Mauritania",
+    "Code": "MRT",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.85325151,
+    "Population by Country (Clio Infra)": 1417210,
+    "": ""
+  },
+  {
+    "Entity": "Mauritania",
+    "Code": "MRT",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.812612649,
+    "Population by Country (Clio Infra)": 1545000,
+    "": ""
+  },
+  {
+    "Entity": "Mauritania",
+    "Code": "MRT",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.759016724,
+    "Population by Country (Clio Infra)": 1735000,
+    "": ""
+  },
+  {
+    "Entity": "Mauritania",
+    "Code": "MRT",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.689097436,
+    "Population by Country (Clio Infra)": 1925000,
+    "": ""
+  },
+  {
+    "Entity": "Mauritania",
+    "Code": "MRT",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.626348198,
+    "Population by Country (Clio Infra)": 2213000,
+    "": ""
+  },
+  {
+    "Entity": "Mauritania",
+    "Code": "MRT",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.562805118,
+    "Population by Country (Clio Infra)": 2501000,
+    "": ""
+  },
+  {
+    "Entity": "Mauritius",
+    "Code": "MUS",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.306040775,
+    "Population by Country (Clio Infra)": 829511,
+    "": ""
+  },
+  {
+    "Entity": "Mauritius",
+    "Code": "MUS",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.25527941,
+    "Population by Country (Clio Infra)": 896606,
+    "": ""
+  },
+  {
+    "Entity": "Mauritius",
+    "Code": "MUS",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.210619314,
+    "Population by Country (Clio Infra)": 963701,
+    "": ""
+  },
+  {
+    "Entity": "Mauritius",
+    "Code": "MUS",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.173795639,
+    "Population by Country (Clio Infra)": 1012850.5,
+    "": ""
+  },
+  {
+    "Entity": "Mauritius",
+    "Code": "MUS",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.144231767,
+    "Population by Country (Clio Infra)": 1062000,
+    "": ""
+  },
+  {
+    "Entity": "Mauritius",
+    "Code": "MUS",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.116512079,
+    "Population by Country (Clio Infra)": 1124000,
+    "": ""
+  },
+  {
+    "Entity": "Mauritius",
+    "Code": "MUS",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.09471954,
+    "Population by Country (Clio Infra)": 1186000,
+    "": ""
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.319540197,
+    "Population by Country (Clio Infra)": 52775158,
+    "": ""
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.268071487,
+    "Population by Country (Clio Infra)": 60561318.5,
+    "": ""
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.223245727,
+    "Population by Country (Clio Infra)": 68347479,
+    "": ""
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.184244894,
+    "Population by Country (Clio Infra)": 76630565.5,
+    "": ""
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.150812588,
+    "Population by Country (Clio Infra)": 84913652,
+    "": ""
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.124987999,
+    "Population by Country (Clio Infra)": 92420136,
+    "": ""
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.1040426,
+    "Population by Country (Clio Infra)": 99926620,
+    "": ""
+  },
+  {
+    "Entity": "Montenegro",
+    "Code": "MNE",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.197625262,
+    "Population by Country (Clio Infra)": 514472,
+    "": ""
+  },
+  {
+    "Entity": "Montenegro",
+    "Code": "MNE",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.155166929,
+    "Population by Country (Clio Infra)": 537236,
+    "": ""
+  },
+  {
+    "Entity": "Montenegro",
+    "Code": "MNE",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.120121838,
+    "Population by Country (Clio Infra)": 560000,
+    "": ""
+  },
+  {
+    "Entity": "Montenegro",
+    "Code": "MNE",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.092735293,
+    "Population by Country (Clio Infra)": 571601,
+    "": ""
+  },
+  {
+    "Entity": "Montenegro",
+    "Code": "MNE",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.076810711,
+    "Population by Country (Clio Infra)": 583202,
+    "": ""
+  },
+  {
+    "Entity": "Montenegro",
+    "Code": "MNE",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.057792417,
+    "Population by Country (Clio Infra)": 657752,
+    "": ""
+  },
+  {
+    "Entity": "Montenegro",
+    "Code": "MNE",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.054445344,
+    "Population by Country (Clio Infra)": 732302,
+    "": ""
+  },
+  {
+    "Entity": "Morocco",
+    "Code": "MAR",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.8213315,
+    "Population by Country (Clio Infra)": 15909275,
+    "": ""
+  },
+  {
+    "Entity": "Morocco",
+    "Code": "MAR",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.761140745,
+    "Population by Country (Clio Infra)": 17698273.5,
+    "": ""
+  },
+  {
+    "Entity": "Morocco",
+    "Code": "MAR",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.71176915,
+    "Population by Country (Clio Infra)": 19487272,
+    "": ""
+  },
+  {
+    "Entity": "Morocco",
+    "Code": "MAR",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.644764814,
+    "Population by Country (Clio Infra)": 22111136,
+    "": ""
+  },
+  {
+    "Entity": "Morocco",
+    "Code": "MAR",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.581462281,
+    "Population by Country (Clio Infra)": 24735000,
+    "": ""
+  },
+  {
+    "Entity": "Morocco",
+    "Code": "MAR",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.52495004,
+    "Population by Country (Clio Infra)": 27459500,
+    "": ""
+  },
+  {
+    "Entity": "Morocco",
+    "Code": "MAR",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.461147219,
+    "Population by Country (Clio Infra)": 30184000,
+    "": ""
+  },
+  {
+    "Entity": "Mozambique",
+    "Code": "MOZ",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.667080216,
+    "Population by Country (Clio Infra)": 9304375,
+    "": ""
+  },
+  {
+    "Entity": "Mozambique",
+    "Code": "MOZ",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.603331711,
+    "Population by Country (Clio Infra)": 10703497,
+    "": ""
+  },
+  {
+    "Entity": "Mozambique",
+    "Code": "MOZ",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.541376949,
+    "Population by Country (Clio Infra)": 12102619,
+    "": ""
+  },
+  {
+    "Entity": "Mozambique",
+    "Code": "MOZ",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.496541699,
+    "Population by Country (Clio Infra)": 12384809.5,
+    "": ""
+  },
+  {
+    "Entity": "Mozambique",
+    "Code": "MOZ",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.467141288,
+    "Population by Country (Clio Infra)": 12667000,
+    "": ""
+  },
+  {
+    "Entity": "Mozambique",
+    "Code": "MOZ",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.414118713,
+    "Population by Country (Clio Infra)": 15396000,
+    "": ""
+  },
+  {
+    "Entity": "Mozambique",
+    "Code": "MOZ",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.360216834,
+    "Population by Country (Clio Infra)": 18125000,
+    "": ""
+  },
+  {
+    "Entity": "Myanmar",
+    "Code": "MMR",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.332021085,
+    "Population by Country (Clio Infra)": 27393000,
+    "": ""
+  },
+  {
+    "Entity": "Myanmar",
+    "Code": "MMR",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.305924389,
+    "Population by Country (Clio Infra)": 30383158,
+    "": ""
+  },
+  {
+    "Entity": "Myanmar",
+    "Code": "MMR",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.281421775,
+    "Population by Country (Clio Infra)": 33373316,
+    "": ""
+  },
+  {
+    "Entity": "Myanmar",
+    "Code": "MMR",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.255423421,
+    "Population by Country (Clio Infra)": 36308158,
+    "": ""
+  },
+  {
+    "Entity": "Myanmar",
+    "Code": "MMR",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.230697212,
+    "Population by Country (Clio Infra)": 39243000,
+    "": ""
+  },
+  {
+    "Entity": "Myanmar",
+    "Code": "MMR",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.206991755,
+    "Population by Country (Clio Infra)": 41772000,
+    "": ""
+  },
+  {
+    "Entity": "Myanmar",
+    "Code": "MMR",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.185657814,
+    "Population by Country (Clio Infra)": 44301000,
+    "": ""
+  },
+  {
+    "Entity": "Namibia",
+    "Code": "NAM",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 3.57e-7,
+    "Population by Country (Clio Infra)": 764683,
+    "": ""
+  },
+  {
+    "Entity": "Namibia",
+    "Code": "NAM",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 1.7e-7,
+    "Population by Country (Clio Infra)": 911352,
+    "": ""
+  },
+  {
+    "Entity": "Namibia",
+    "Code": "NAM",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 6.5e-8,
+    "Population by Country (Clio Infra)": 1058021,
+    "": ""
+  },
+  {
+    "Entity": "Namibia",
+    "Code": "NAM",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 2.13e-8,
+    "Population by Country (Clio Infra)": 1264667.5,
+    "": ""
+  },
+  {
+    "Entity": "Namibia",
+    "Code": "NAM",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 4.18e-9,
+    "Population by Country (Clio Infra)": 1471314,
+    "": ""
+  },
+  {
+    "Entity": "Namibia",
+    "Code": "NAM",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 3.24e-10,
+    "Population by Country (Clio Infra)": 1682157,
+    "": ""
+  },
+  {
+    "Entity": "Namibia",
+    "Code": "NAM",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 2.39e-11,
+    "Population by Country (Clio Infra)": 1893000,
+    "": ""
+  },
+  {
+    "Entity": "Nepal",
+    "Code": "NPL",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.872052303,
+    "Population by Country (Clio Infra)": 11918678,
+    "": ""
+  },
+  {
+    "Entity": "Nepal",
+    "Code": "NPL",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.833337034,
+    "Population by Country (Clio Infra)": 13291839,
+    "": ""
+  },
+  {
+    "Entity": "Nepal",
+    "Code": "NPL",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.789346006,
+    "Population by Country (Clio Infra)": 14665000,
+    "": ""
+  },
+  {
+    "Entity": "Nepal",
+    "Code": "NPL",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.740838772,
+    "Population by Country (Clio Infra)": 16791500,
+    "": ""
+  },
+  {
+    "Entity": "Nepal",
+    "Code": "NPL",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.685160559,
+    "Population by Country (Clio Infra)": 18918000,
+    "": ""
+  },
+  {
+    "Entity": "Nepal",
+    "Code": "NPL",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.622719467,
+    "Population by Country (Clio Infra)": 21868000,
+    "": ""
+  },
+  {
+    "Entity": "Nepal",
+    "Code": "NPL",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.548607956,
+    "Population by Country (Clio Infra)": 24818000,
+    "": ""
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.00000103,
+    "Population by Country (Clio Infra)": 13032335,
+    "": ""
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 6.08e-7,
+    "Population by Country (Clio Infra)": 13588118,
+    "": ""
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 3.22e-7,
+    "Population by Country (Clio Infra)": 14143901,
+    "": ""
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 1.54e-7,
+    "Population by Country (Clio Infra)": 14547705.5,
+    "": ""
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 5.79e-8,
+    "Population by Country (Clio Infra)": 14951510,
+    "": ""
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 8.65e-9,
+    "Population by Country (Clio Infra)": 15429681.5,
+    "": ""
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 1.38e-9,
+    "Population by Country (Clio Infra)": 15907853,
+    "": ""
+  },
+  {
+    "Entity": "New Zealand",
+    "Code": "NZL",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 4.74e-7,
+    "Population by Country (Clio Infra)": 2828050,
+    "": ""
+  },
+  {
+    "Entity": "New Zealand",
+    "Code": "NZL",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 2.16e-7,
+    "Population by Country (Clio Infra)": 2999100,
+    "": ""
+  },
+  {
+    "Entity": "New Zealand",
+    "Code": "NZL",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 1.01e-7,
+    "Population by Country (Clio Infra)": 3170150,
+    "": ""
+  },
+  {
+    "Entity": "New Zealand",
+    "Code": "NZL",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 3.82e-8,
+    "Population by Country (Clio Infra)": 3292075,
+    "": ""
+  },
+  {
+    "Entity": "New Zealand",
+    "Code": "NZL",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 1e-8,
+    "Population by Country (Clio Infra)": 3414000,
+    "": ""
+  },
+  {
+    "Entity": "New Zealand",
+    "Code": "NZL",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 1.17e-9,
+    "Population by Country (Clio Infra)": 3754364,
+    "": ""
+  },
+  {
+    "Entity": "Nicaragua",
+    "Code": "NIC",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 2.65e-7,
+    "Population by Country (Clio Infra)": 2052544,
+    "": ""
+  },
+  {
+    "Entity": "Nicaragua",
+    "Code": "NIC",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 1.32e-7,
+    "Population by Country (Clio Infra)": 2428932.5,
+    "": ""
+  },
+  {
+    "Entity": "Nicaragua",
+    "Code": "NIC",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 5.68e-8,
+    "Population by Country (Clio Infra)": 2805321,
+    "": ""
+  },
+  {
+    "Entity": "Nicaragua",
+    "Code": "NIC",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 2.45e-8,
+    "Population by Country (Clio Infra)": 3245160.5,
+    "": ""
+  },
+  {
+    "Entity": "Nicaragua",
+    "Code": "NIC",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 7.04e-9,
+    "Population by Country (Clio Infra)": 3685000,
+    "": ""
+  },
+  {
+    "Entity": "Nicaragua",
+    "Code": "NIC",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 5.37e-10,
+    "Population by Country (Clio Infra)": 4310000,
+    "": ""
+  },
+  {
+    "Entity": "Nicaragua",
+    "Code": "NIC",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 6.06e-11,
+    "Population by Country (Clio Infra)": 4935000,
+    "": ""
+  },
+  {
+    "Entity": "Niger",
+    "Code": "NER",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.976062653,
+    "Population by Country (Clio Infra)": 4840501,
+    "": ""
+  },
+  {
+    "Entity": "Niger",
+    "Code": "NER",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.959988685,
+    "Population by Country (Clio Infra)": 5466750.5,
+    "": ""
+  },
+  {
+    "Entity": "Niger",
+    "Code": "NER",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.944323081,
+    "Population by Country (Clio Infra)": 6093000,
+    "": ""
+  },
+  {
+    "Entity": "Niger",
+    "Code": "NER",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.915932605,
+    "Population by Country (Clio Infra)": 6967500,
+    "": ""
+  },
+  {
+    "Entity": "Niger",
+    "Code": "NER",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.886813256,
+    "Population by Country (Clio Infra)": 7842000,
+    "": ""
+  },
+  {
+    "Entity": "Niger",
+    "Code": "NER",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.849866806,
+    "Population by Country (Clio Infra)": 9396500,
+    "": ""
+  },
+  {
+    "Entity": "Niger",
+    "Code": "NER",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.819881157,
+    "Population by Country (Clio Infra)": 10951000,
+    "": ""
+  },
+  {
+    "Entity": "Nigeria",
+    "Code": "NGA",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.745071128,
+    "Population by Country (Clio Infra)": 55586000,
+    "": ""
+  },
+  {
+    "Entity": "Nigeria",
+    "Code": "NGA",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.693881717,
+    "Population by Country (Clio Infra)": 65203500,
+    "": ""
+  },
+  {
+    "Entity": "Nigeria",
+    "Code": "NGA",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.630835414,
+    "Population by Country (Clio Infra)": 74821000,
+    "": ""
+  },
+  {
+    "Entity": "Nigeria",
+    "Code": "NGA",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.574111533,
+    "Population by Country (Clio Infra)": 85712500,
+    "": ""
+  },
+  {
+    "Entity": "Nigeria",
+    "Code": "NGA",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.515822238,
+    "Population by Country (Clio Infra)": 96604000,
+    "": ""
+  },
+  {
+    "Entity": "Nigeria",
+    "Code": "NGA",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.454427302,
+    "Population by Country (Clio Infra)": 109891500,
+    "": ""
+  },
+  {
+    "Entity": "Nigeria",
+    "Code": "NGA",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.397729768,
+    "Population by Country (Clio Infra)": 123179000,
+    "": ""
+  },
+  {
+    "Entity": "Norway",
+    "Code": "NOR",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.004729364,
+    "Population by Country (Clio Infra)": 3877386,
+    "": ""
+  },
+  {
+    "Entity": "Norway",
+    "Code": "NOR",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.004368259,
+    "Population by Country (Clio Infra)": 3981503,
+    "": ""
+  },
+  {
+    "Entity": "Norway",
+    "Code": "NOR",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.004024581,
+    "Population by Country (Clio Infra)": 4085620,
+    "": ""
+  },
+  {
+    "Entity": "Norway",
+    "Code": "NOR",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.003653413,
+    "Population by Country (Clio Infra)": 4163813,
+    "": ""
+  },
+  {
+    "Entity": "Norway",
+    "Code": "NOR",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.003285507,
+    "Population by Country (Clio Infra)": 4242006,
+    "": ""
+  },
+  {
+    "Entity": "Norway",
+    "Code": "NOR",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.002940753,
+    "Population by Country (Clio Infra)": 4367203,
+    "": ""
+  },
+  {
+    "Entity": "Norway",
+    "Code": "NOR",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.002599147,
+    "Population by Country (Clio Infra)": 4492400,
+    "": ""
+  },
+  {
+    "Entity": "Pakistan",
+    "Code": "PAK",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.771354558,
+    "Population by Country (Clio Infra)": 65705964,
+    "": ""
+  },
+  {
+    "Entity": "Pakistan",
+    "Code": "PAK",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.737865045,
+    "Population by Country (Clio Infra)": 75462540.5,
+    "": ""
+  },
+  {
+    "Entity": "Pakistan",
+    "Code": "PAK",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.700135505,
+    "Population by Country (Clio Infra)": 85219117,
+    "": ""
+  },
+  {
+    "Entity": "Pakistan",
+    "Code": "PAK",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.662106346,
+    "Population by Country (Clio Infra)": 99913058.5,
+    "": ""
+  },
+  {
+    "Entity": "Pakistan",
+    "Code": "PAK",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.621274385,
+    "Population by Country (Clio Infra)": 114607000,
+    "": ""
+  },
+  {
+    "Entity": "Pakistan",
+    "Code": "PAK",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.571598495,
+    "Population by Country (Clio Infra)": 130506000,
+    "": ""
+  },
+  {
+    "Entity": "Pakistan",
+    "Code": "PAK",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.518542226,
+    "Population by Country (Clio Infra)": 146405000,
+    "": ""
+  },
+  {
+    "Entity": "Panama",
+    "Code": "PAN",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.209446222,
+    "Population by Country (Clio Infra)": 1531038,
+    "": ""
+  },
+  {
+    "Entity": "Panama",
+    "Code": "PAN",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.177289241,
+    "Population by Country (Clio Infra)": 1745519,
+    "": ""
+  },
+  {
+    "Entity": "Panama",
+    "Code": "PAN",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.147394687,
+    "Population by Country (Clio Infra)": 1960000,
+    "": ""
+  },
+  {
+    "Entity": "Panama",
+    "Code": "PAN",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.122676588,
+    "Population by Country (Clio Infra)": 2176500,
+    "": ""
+  },
+  {
+    "Entity": "Panama",
+    "Code": "PAN",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.10416863,
+    "Population by Country (Clio Infra)": 2393000,
+    "": ""
+  },
+  {
+    "Entity": "Panama",
+    "Code": "PAN",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.088746485,
+    "Population by Country (Clio Infra)": 2646500,
+    "": ""
+  },
+  {
+    "Entity": "Panama",
+    "Code": "PAN",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.07577367,
+    "Population by Country (Clio Infra)": 2900000,
+    "": ""
+  },
+  {
+    "Entity": "Paraguay",
+    "Code": "PRY",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.174562322,
+    "Population by Country (Clio Infra)": 2476785,
+    "": ""
+  },
+  {
+    "Entity": "Paraguay",
+    "Code": "PRY",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.146185869,
+    "Population by Country (Clio Infra)": 2836392.5,
+    "": ""
+  },
+  {
+    "Entity": "Paraguay",
+    "Code": "PRY",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.121474687,
+    "Population by Country (Clio Infra)": 3196000,
+    "": ""
+  },
+  {
+    "Entity": "Paraguay",
+    "Code": "PRY",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.099270214,
+    "Population by Country (Clio Infra)": 3720000,
+    "": ""
+  },
+  {
+    "Entity": "Paraguay",
+    "Code": "PRY",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.080868627,
+    "Population by Country (Clio Infra)": 4244000,
+    "": ""
+  },
+  {
+    "Entity": "Paraguay",
+    "Code": "PRY",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.068576445,
+    "Population by Country (Clio Infra)": 4918000,
+    "": ""
+  },
+  {
+    "Entity": "Paraguay",
+    "Code": "PRY",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.056299776,
+    "Population by Country (Clio Infra)": 5592000,
+    "": ""
+  },
+  {
+    "Entity": "Peru",
+    "Code": "PER",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.248947643,
+    "Population by Country (Clio Infra)": 13192800,
+    "": ""
+  },
+  {
+    "Entity": "Peru",
+    "Code": "PER",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.206246875,
+    "Population by Country (Clio Infra)": 15244049,
+    "": ""
+  },
+  {
+    "Entity": "Peru",
+    "Code": "PER",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.168270391,
+    "Population by Country (Clio Infra)": 17295298,
+    "": ""
+  },
+  {
+    "Entity": "Peru",
+    "Code": "PER",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.135588687,
+    "Population by Country (Clio Infra)": 19447649,
+    "": ""
+  },
+  {
+    "Entity": "Peru",
+    "Code": "PER",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.108195291,
+    "Population by Country (Clio Infra)": 21600000,
+    "": ""
+  },
+  {
+    "Entity": "Peru",
+    "Code": "PER",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.087309637,
+    "Population by Country (Clio Infra)": 23843500,
+    "": ""
+  },
+  {
+    "Entity": "Peru",
+    "Code": "PER",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.07023774,
+    "Population by Country (Clio Infra)": 26087000,
+    "": ""
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.115110387,
+    "Population by Country (Clio Infra)": 38603696,
+    "": ""
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.090234673,
+    "Population by Country (Clio Infra)": 44771939,
+    "": ""
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.071637202,
+    "Population by Country (Clio Infra)": 50940182,
+    "": ""
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.056888278,
+    "Population by Country (Clio Infra)": 58014091,
+    "": ""
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.045541845,
+    "Population by Country (Clio Infra)": 65088000,
+    "": ""
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.036497816,
+    "Population by Country (Clio Infra)": 73155000,
+    "": ""
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.030288975,
+    "Population by Country (Clio Infra)": 81222000,
+    "": ""
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.134105954,
+    "Population by Country (Clio Infra)": 32526000,
+    "": ""
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.105143112,
+    "Population by Country (Clio Infra)": 34052008,
+    "": ""
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.083421917,
+    "Population by Country (Clio Infra)": 35578016,
+    "": ""
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.064220049,
+    "Population by Country (Clio Infra)": 36848712,
+    "": ""
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.047772311,
+    "Population by Country (Clio Infra)": 38119408,
+    "": ""
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.034271698,
+    "Population by Country (Clio Infra)": 38386786,
+    "": ""
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.028085092,
+    "Population by Country (Clio Infra)": 38654164,
+    "": ""
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.306643325,
+    "Population by Country (Clio Infra)": 9044200,
+    "": ""
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.256657682,
+    "Population by Country (Clio Infra)": 9411000,
+    "": ""
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.206681859,
+    "Population by Country (Clio Infra)": 9777800,
+    "": ""
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.178509971,
+    "Population by Country (Clio Infra)": 9850244.5,
+    "": ""
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.14622498,
+    "Population by Country (Clio Infra)": 9922689,
+    "": ""
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.116717123,
+    "Population by Country (Clio Infra)": 10129143,
+    "": ""
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.091244543,
+    "Population by Country (Clio Infra)": 10335597,
+    "": ""
+  },
+  {
+    "Entity": "Romania",
+    "Code": "ROU",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.146908244,
+    "Population by Country (Clio Infra)": 20252541,
+    "": ""
+  },
+  {
+    "Entity": "Romania",
+    "Code": "ROU",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.120475959,
+    "Population by Country (Clio Infra)": 21191288.5,
+    "": ""
+  },
+  {
+    "Entity": "Romania",
+    "Code": "ROU",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.099376025,
+    "Population by Country (Clio Infra)": 22130036,
+    "": ""
+  },
+  {
+    "Entity": "Romania",
+    "Code": "ROU",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.078270392,
+    "Population by Country (Clio Infra)": 22497990.5,
+    "": ""
+  },
+  {
+    "Entity": "Romania",
+    "Code": "ROU",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.062528417,
+    "Population by Country (Clio Infra)": 22865945,
+    "": ""
+  },
+  {
+    "Entity": "Romania",
+    "Code": "ROU",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.051522751,
+    "Population by Country (Clio Infra)": 22658933,
+    "": ""
+  },
+  {
+    "Entity": "Romania",
+    "Code": "ROU",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.042969319,
+    "Population by Country (Clio Infra)": 22451921,
+    "": ""
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 6.45e-7,
+    "Population by Country (Clio Infra)": 130245476,
+    "": ""
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 3.62e-7,
+    "Population by Country (Clio Infra)": 134642162.5,
+    "": ""
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 1.79e-7,
+    "Population by Country (Clio Infra)": 139038849,
+    "": ""
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 7.54e-8,
+    "Population by Country (Clio Infra)": 143505924.5,
+    "": ""
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 2.22e-8,
+    "Population by Country (Clio Infra)": 147973000,
+    "": ""
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 2.65e-9,
+    "Population by Country (Clio Infra)": 147341500,
+    "": ""
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 2.32e-10,
+    "Population by Country (Clio Infra)": 146710000,
+    "": ""
+  },
+  {
+    "Entity": "Rwanda",
+    "Code": "RWA",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.677496216,
+    "Population by Country (Clio Infra)": 3769171,
+    "": ""
+  },
+  {
+    "Entity": "Rwanda",
+    "Code": "RWA",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.622190112,
+    "Population by Country (Clio Infra)": 4453585.5,
+    "": ""
+  },
+  {
+    "Entity": "Rwanda",
+    "Code": "RWA",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.568141268,
+    "Population by Country (Clio Infra)": 5138000,
+    "": ""
+  },
+  {
+    "Entity": "Rwanda",
+    "Code": "RWA",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.514559635,
+    "Population by Country (Clio Infra)": 6060000,
+    "": ""
+  },
+  {
+    "Entity": "Rwanda",
+    "Code": "RWA",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.453116325,
+    "Population by Country (Clio Infra)": 6982000,
+    "": ""
+  },
+  {
+    "Entity": "Rwanda",
+    "Code": "RWA",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.389754269,
+    "Population by Country (Clio Infra)": 7630000,
+    "": ""
+  },
+  {
+    "Entity": "Rwanda",
+    "Code": "RWA",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.321346528,
+    "Population by Country (Clio Infra)": 8278000,
+    "": ""
+  },
+  {
+    "Entity": "Saudi Arabia",
+    "Code": "SAU",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.672393811,
+    "Population by Country (Clio Infra)": 6109051,
+    "": ""
+  },
+  {
+    "Entity": "Saudi Arabia",
+    "Code": "SAU",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.583903785,
+    "Population by Country (Clio Infra)": 8054106,
+    "": ""
+  },
+  {
+    "Entity": "Saudi Arabia",
+    "Code": "SAU",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.484307343,
+    "Population by Country (Clio Infra)": 9999161,
+    "": ""
+  },
+  {
+    "Entity": "Saudi Arabia",
+    "Code": "SAU",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.382138889,
+    "Population by Country (Clio Infra)": 13029961,
+    "": ""
+  },
+  {
+    "Entity": "Saudi Arabia",
+    "Code": "SAU",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.307835684,
+    "Population by Country (Clio Infra)": 16060761,
+    "": ""
+  },
+  {
+    "Entity": "Saudi Arabia",
+    "Code": "SAU",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.245974435,
+    "Population by Country (Clio Infra)": 19603880.5,
+    "": ""
+  },
+  {
+    "Entity": "Saudi Arabia",
+    "Code": "SAU",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.196046715,
+    "Population by Country (Clio Infra)": 23147000,
+    "": ""
+  },
+  {
+    "Entity": "Singapore",
+    "Code": "SGP",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.491757834,
+    "Population by Country (Clio Infra)": 2074507,
+    "": ""
+  },
+  {
+    "Entity": "Singapore",
+    "Code": "SGP",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.409089734,
+    "Population by Country (Clio Infra)": 2244203.5,
+    "": ""
+  },
+  {
+    "Entity": "Singapore",
+    "Code": "SGP",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.341544367,
+    "Population by Country (Clio Infra)": 2413900,
+    "": ""
+  },
+  {
+    "Entity": "Singapore",
+    "Code": "SGP",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.294905736,
+    "Population by Country (Clio Infra)": 2730500,
+    "": ""
+  },
+  {
+    "Entity": "Singapore",
+    "Code": "SGP",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.240040631,
+    "Population by Country (Clio Infra)": 3047100,
+    "": ""
+  },
+  {
+    "Entity": "Singapore",
+    "Code": "SGP",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.207376596,
+    "Population by Country (Clio Infra)": 3541926.5,
+    "": ""
+  },
+  {
+    "Entity": "Singapore",
+    "Code": "SGP",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.178056706,
+    "Population by Country (Clio Infra)": 4036753,
+    "": ""
+  },
+  {
+    "Entity": "Slovakia",
+    "Code": "SVK",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.003997552,
+    "Population by Country (Clio Infra)": 4523873,
+    "": ""
+  },
+  {
+    "Entity": "Slovakia",
+    "Code": "SVK",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.003784114,
+    "Population by Country (Clio Infra)": 4744915.5,
+    "": ""
+  },
+  {
+    "Entity": "Slovakia",
+    "Code": "SVK",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.003637429,
+    "Population by Country (Clio Infra)": 4965958,
+    "": ""
+  },
+  {
+    "Entity": "Slovakia",
+    "Code": "SVK",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.003484424,
+    "Population by Country (Clio Infra)": 5114287,
+    "": ""
+  },
+  {
+    "Entity": "Slovakia",
+    "Code": "SVK",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.003401285,
+    "Population by Country (Clio Infra)": 5262616,
+    "": ""
+  },
+  {
+    "Entity": "Slovakia",
+    "Code": "SVK",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.003296129,
+    "Population by Country (Clio Infra)": 5331468,
+    "": ""
+  },
+  {
+    "Entity": "Slovakia",
+    "Code": "SVK",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.003331034,
+    "Population by Country (Clio Infra)": 5400320,
+    "": ""
+  },
+  {
+    "Entity": "Slovenia",
+    "Code": "SVN",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.011467525,
+    "Population by Country (Clio Infra)": 1675739,
+    "": ""
+  },
+  {
+    "Entity": "Slovenia",
+    "Code": "SVN",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.010321169,
+    "Population by Country (Clio Infra)": 1754369.5,
+    "": ""
+  },
+  {
+    "Entity": "Slovenia",
+    "Code": "SVN",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.009190724,
+    "Population by Country (Clio Infra)": 1833000,
+    "": ""
+  },
+  {
+    "Entity": "Slovenia",
+    "Code": "SVN",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.008163621,
+    "Population by Country (Clio Infra)": 1912105,
+    "": ""
+  },
+  {
+    "Entity": "Slovenia",
+    "Code": "SVN",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.007221936,
+    "Population by Country (Clio Infra)": 1991210,
+    "": ""
+  },
+  {
+    "Entity": "Slovenia",
+    "Code": "SVN",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.006445179,
+    "Population by Country (Clio Infra)": 2000883.5,
+    "": ""
+  },
+  {
+    "Entity": "Slovenia",
+    "Code": "SVN",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.005853112,
+    "Population by Country (Clio Infra)": 2010557,
+    "": ""
+  },
+  {
+    "Entity": "South Africa",
+    "Code": "ZAF",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.401415885,
+    "Population by Country (Clio Infra)": 22739921,
+    "": ""
+  },
+  {
+    "Entity": "South Africa",
+    "Code": "ZAF",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.348946429,
+    "Population by Country (Clio Infra)": 25995754.5,
+    "": ""
+  },
+  {
+    "Entity": "South Africa",
+    "Code": "ZAF",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.301240213,
+    "Population by Country (Clio Infra)": 29251588,
+    "": ""
+  },
+  {
+    "Entity": "South Africa",
+    "Code": "ZAF",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.255890025,
+    "Population by Country (Clio Infra)": 33863794,
+    "": ""
+  },
+  {
+    "Entity": "South Africa",
+    "Code": "ZAF",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.216667961,
+    "Population by Country (Clio Infra)": 38476000,
+    "": ""
+  },
+  {
+    "Entity": "South Africa",
+    "Code": "ZAF",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.182999852,
+    "Population by Country (Clio Infra)": 41770000,
+    "": ""
+  },
+  {
+    "Entity": "South Africa",
+    "Code": "ZAF",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.150276933,
+    "Population by Country (Clio Infra)": 45064000,
+    "": ""
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.292035996,
+    "Population by Country (Clio Infra)": 32241000,
+    "": ""
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.219709175,
+    "Population by Country (Clio Infra)": 35182500,
+    "": ""
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.163007621,
+    "Population by Country (Clio Infra)": 38124000,
+    "": ""
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.127336435,
+    "Population by Country (Clio Infra)": 40496500,
+    "": ""
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.097279071,
+    "Population by Country (Clio Infra)": 42869000,
+    "": ""
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.075403064,
+    "Population by Country (Clio Infra)": 44854000,
+    "": ""
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.058707768,
+    "Population by Country (Clio Infra)": 46839000,
+    "": ""
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.391027516,
+    "Population by Country (Clio Infra)": 33876479,
+    "": ""
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.342669952,
+    "Population by Country (Clio Infra)": 35682419.5,
+    "": ""
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.295248391,
+    "Population by Country (Clio Infra)": 37488360,
+    "": ""
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.252938868,
+    "Population by Country (Clio Infra)": 38419564.5,
+    "": ""
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.215023678,
+    "Population by Country (Clio Infra)": 39350769,
+    "": ""
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.181095988,
+    "Population by Country (Clio Infra)": 39683425,
+    "": ""
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.152748352,
+    "Population by Country (Clio Infra)": 40016081,
+    "": ""
+  },
+  {
+    "Entity": "Sri Lanka",
+    "Code": "LKA",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.161154856,
+    "Population by Country (Clio Infra)": 12619000,
+    "": ""
+  },
+  {
+    "Entity": "Sri Lanka",
+    "Code": "LKA",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.13793238,
+    "Population by Country (Clio Infra)": 13837500,
+    "": ""
+  },
+  {
+    "Entity": "Sri Lanka",
+    "Code": "LKA",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.11868443,
+    "Population by Country (Clio Infra)": 15056000,
+    "": ""
+  },
+  {
+    "Entity": "Sri Lanka",
+    "Code": "LKA",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.102725672,
+    "Population by Country (Clio Infra)": 16210500,
+    "": ""
+  },
+  {
+    "Entity": "Sri Lanka",
+    "Code": "LKA",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.086779551,
+    "Population by Country (Clio Infra)": 17365000,
+    "": ""
+  },
+  {
+    "Entity": "Sri Lanka",
+    "Code": "LKA",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.07264312,
+    "Population by Country (Clio Infra)": 18400500,
+    "": ""
+  },
+  {
+    "Entity": "Sri Lanka",
+    "Code": "LKA",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.061063805,
+    "Population by Country (Clio Infra)": 19436000,
+    "": ""
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.00000128,
+    "Population by Country (Clio Infra)": 8042803,
+    "": ""
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 8.05e-7,
+    "Population by Country (Clio Infra)": 8176638,
+    "": ""
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 4.37e-7,
+    "Population by Country (Clio Infra)": 8310473,
+    "": ""
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 2.26e-7,
+    "Population by Country (Clio Infra)": 8434736.5,
+    "": ""
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 7.91e-8,
+    "Population by Country (Clio Infra)": 8559000,
+    "": ""
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 1.2e-8,
+    "Population by Country (Clio Infra)": 8715500,
+    "": ""
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 1.23e-9,
+    "Population by Country (Clio Infra)": 8872000,
+    "": ""
+  },
+  {
+    "Entity": "Switzerland",
+    "Code": "CHE",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.00000117,
+    "Population by Country (Clio Infra)": 6267000,
+    "": ""
+  },
+  {
+    "Entity": "Switzerland",
+    "Code": "CHE",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 6.99e-7,
+    "Population by Country (Clio Infra)": 6326114.5,
+    "": ""
+  },
+  {
+    "Entity": "Switzerland",
+    "Code": "CHE",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 3.87e-7,
+    "Population by Country (Clio Infra)": 6385229,
+    "": ""
+  },
+  {
+    "Entity": "Switzerland",
+    "Code": "CHE",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 1.91e-7,
+    "Population by Country (Clio Infra)": 6610927.5,
+    "": ""
+  },
+  {
+    "Entity": "Switzerland",
+    "Code": "CHE",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 7.65e-8,
+    "Population by Country (Clio Infra)": 6836626,
+    "": ""
+  },
+  {
+    "Entity": "Switzerland",
+    "Code": "CHE",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 1.15e-8,
+    "Population by Country (Clio Infra)": 7051773,
+    "": ""
+  },
+  {
+    "Entity": "Switzerland",
+    "Code": "CHE",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 1.64e-9,
+    "Population by Country (Clio Infra)": 7266920,
+    "": ""
+  },
+  {
+    "Entity": "Syria",
+    "Code": "SYR",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.49815879,
+    "Population by Country (Clio Infra)": 6258053,
+    "": ""
+  },
+  {
+    "Entity": "Syria",
+    "Code": "SYR",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.418817754,
+    "Population by Country (Clio Infra)": 7515817.5,
+    "": ""
+  },
+  {
+    "Entity": "Syria",
+    "Code": "SYR",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.345898027,
+    "Population by Country (Clio Infra)": 8773582,
+    "": ""
+  },
+  {
+    "Entity": "Syria",
+    "Code": "SYR",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.286740302,
+    "Population by Country (Clio Infra)": 10604814,
+    "": ""
+  },
+  {
+    "Entity": "Syria",
+    "Code": "SYR",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.23412559,
+    "Population by Country (Clio Infra)": 12436046,
+    "": ""
+  },
+  {
+    "Entity": "Syria",
+    "Code": "SYR",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.187948848,
+    "Population by Country (Clio Infra)": 14370852.5,
+    "": ""
+  },
+  {
+    "Entity": "Syria",
+    "Code": "SYR",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.149175828,
+    "Population by Country (Clio Infra)": 16305659,
+    "": ""
+  },
+  {
+    "Entity": "Tajikistan",
+    "Code": "TJK",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.038673295,
+    "Population by Country (Clio Infra)": 2938516,
+    "": ""
+  },
+  {
+    "Entity": "Tajikistan",
+    "Code": "TJK",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.029237741,
+    "Population by Country (Clio Infra)": 3452258,
+    "": ""
+  },
+  {
+    "Entity": "Tajikistan",
+    "Code": "TJK",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.021492246,
+    "Population by Country (Clio Infra)": 3966000,
+    "": ""
+  },
+  {
+    "Entity": "Tajikistan",
+    "Code": "TJK",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.016043902,
+    "Population by Country (Clio Infra)": 4619000,
+    "": ""
+  },
+  {
+    "Entity": "Tajikistan",
+    "Code": "TJK",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.012045552,
+    "Population by Country (Clio Infra)": 5272000,
+    "": ""
+  },
+  {
+    "Entity": "Tajikistan",
+    "Code": "TJK",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.00860209,
+    "Population by Country (Clio Infra)": 5751000,
+    "": ""
+  },
+  {
+    "Entity": "Tajikistan",
+    "Code": "TJK",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.006787526,
+    "Population by Country (Clio Infra)": 6230000,
+    "": ""
+  },
+  {
+    "Entity": "Tanzania",
+    "Code": "TZA",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.618947499,
+    "Population by Country (Clio Infra)": 13806869,
+    "": ""
+  },
+  {
+    "Entity": "Tanzania",
+    "Code": "TZA",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.551199496,
+    "Population by Country (Clio Infra)": 16235934.5,
+    "": ""
+  },
+  {
+    "Entity": "Tanzania",
+    "Code": "TZA",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.482273696,
+    "Population by Country (Clio Infra)": 18665000,
+    "": ""
+  },
+  {
+    "Entity": "Tanzania",
+    "Code": "TZA",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.415929926,
+    "Population by Country (Clio Infra)": 21939500,
+    "": ""
+  },
+  {
+    "Entity": "Tanzania",
+    "Code": "TZA",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.362676479,
+    "Population by Country (Clio Infra)": 25214000,
+    "": ""
+  },
+  {
+    "Entity": "Tanzania",
+    "Code": "TZA",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.319785465,
+    "Population by Country (Clio Infra)": 29463000,
+    "": ""
+  },
+  {
+    "Entity": "Tanzania",
+    "Code": "TZA",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.290938556,
+    "Population by Country (Clio Infra)": 33712000,
+    "": ""
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.316700896,
+    "Population by Country (Clio Infra)": 37090871,
+    "": ""
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.259703489,
+    "Population by Country (Clio Infra)": 42058317.5,
+    "": ""
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.210174796,
+    "Population by Country (Clio Infra)": 47025764,
+    "": ""
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.176341069,
+    "Population by Country (Clio Infra)": 51111243,
+    "": ""
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.146326244,
+    "Population by Country (Clio Infra)": 55196722,
+    "": ""
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.121275221,
+    "Population by Country (Clio Infra)": 58529825,
+    "": ""
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.101413606,
+    "Population by Country (Clio Infra)": 61862928,
+    "": ""
+  },
+  {
+    "Entity": "Togo",
+    "Code": "TGO",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.793067988,
+    "Population by Country (Clio Infra)": 1964128,
+    "": ""
+  },
+  {
+    "Entity": "Togo",
+    "Code": "TGO",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.738780764,
+    "Population by Country (Clio Infra)": 2222751.5,
+    "": ""
+  },
+  {
+    "Entity": "Togo",
+    "Code": "TGO",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.684023443,
+    "Population by Country (Clio Infra)": 2481375,
+    "": ""
+  },
+  {
+    "Entity": "Togo",
+    "Code": "TGO",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.620025919,
+    "Population by Country (Clio Infra)": 2993094,
+    "": ""
+  },
+  {
+    "Entity": "Togo",
+    "Code": "TGO",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.560150718,
+    "Population by Country (Clio Infra)": 3504813,
+    "": ""
+  },
+  {
+    "Entity": "Togo",
+    "Code": "TGO",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.495824303,
+    "Population by Country (Clio Infra)": 4108234,
+    "": ""
+  },
+  {
+    "Entity": "Togo",
+    "Code": "TGO",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.429244922,
+    "Population by Country (Clio Infra)": 4711655,
+    "": ""
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.499543062,
+    "Population by Country (Clio Infra)": 35758382,
+    "": ""
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.428416549,
+    "Population by Country (Clio Infra)": 40403191,
+    "": ""
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.369003372,
+    "Population by Country (Clio Infra)": 45048000,
+    "": ""
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.310865993,
+    "Population by Country (Clio Infra)": 50804500,
+    "": ""
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.258594863,
+    "Population by Country (Clio Infra)": 56561000,
+    "": ""
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.215356903,
+    "Population by Country (Clio Infra)": 61945000,
+    "": ""
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.188477485,
+    "Population by Country (Clio Infra)": 67329000,
+    "": ""
+  },
+  {
+    "Entity": "Turkmenistan",
+    "Code": "TKM",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.166703715,
+    "Population by Country (Clio Infra)": 2181272,
+    "": ""
+  },
+  {
+    "Entity": "Turkmenistan",
+    "Code": "TKM",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.116437414,
+    "Population by Country (Clio Infra)": 2528202.5,
+    "": ""
+  },
+  {
+    "Entity": "Turkmenistan",
+    "Code": "TKM",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.079929329,
+    "Population by Country (Clio Infra)": 2875133,
+    "": ""
+  },
+  {
+    "Entity": "Turkmenistan",
+    "Code": "TKM",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.055582201,
+    "Population by Country (Clio Infra)": 3266566.5,
+    "": ""
+  },
+  {
+    "Entity": "Turkmenistan",
+    "Code": "TKM",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.037941406,
+    "Population by Country (Clio Infra)": 3658000,
+    "": ""
+  },
+  {
+    "Entity": "Turkmenistan",
+    "Code": "TKM",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.025665852,
+    "Population by Country (Clio Infra)": 4021500,
+    "": ""
+  },
+  {
+    "Entity": "Turkmenistan",
+    "Code": "TKM",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.017012893,
+    "Population by Country (Clio Infra)": 4385000,
+    "": ""
+  },
+  {
+    "Entity": "Uganda",
+    "Code": "UGA",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.55037598,
+    "Population by Country (Clio Infra)": 9743000,
+    "": ""
+  },
+  {
+    "Entity": "Uganda",
+    "Code": "UGA",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.485002323,
+    "Population by Country (Clio Infra)": 11079000,
+    "": ""
+  },
+  {
+    "Entity": "Uganda",
+    "Code": "UGA",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.427046186,
+    "Population by Country (Clio Infra)": 12415000,
+    "": ""
+  },
+  {
+    "Entity": "Uganda",
+    "Code": "UGA",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.367656595,
+    "Population by Country (Clio Infra)": 14935500,
+    "": ""
+  },
+  {
+    "Entity": "Uganda",
+    "Code": "UGA",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.314093427,
+    "Population by Country (Clio Infra)": 17456000,
+    "": ""
+  },
+  {
+    "Entity": "Uganda",
+    "Code": "UGA",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.264650354,
+    "Population by Country (Clio Infra)": 20706000,
+    "": ""
+  },
+  {
+    "Entity": "Uganda",
+    "Code": "UGA",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.21252846,
+    "Population by Country (Clio Infra)": 23956000,
+    "": ""
+  },
+  {
+    "Entity": "Ukraine",
+    "Code": "UKR",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 5.27e-7,
+    "Population by Country (Clio Infra)": 47235697,
+    "": ""
+  },
+  {
+    "Entity": "Ukraine",
+    "Code": "UKR",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 2.81e-7,
+    "Population by Country (Clio Infra)": 48641173,
+    "": ""
+  },
+  {
+    "Entity": "Ukraine",
+    "Code": "UKR",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 1.34e-7,
+    "Population by Country (Clio Infra)": 50046649,
+    "": ""
+  },
+  {
+    "Entity": "Ukraine",
+    "Code": "UKR",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 4.14e-8,
+    "Population by Country (Clio Infra)": 50834462,
+    "": ""
+  },
+  {
+    "Entity": "Ukraine",
+    "Code": "UKR",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 9.1e-9,
+    "Population by Country (Clio Infra)": 51622275,
+    "": ""
+  },
+  {
+    "Entity": "Ukraine",
+    "Code": "UKR",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 9.64e-10,
+    "Population by Country (Clio Infra)": 50314917,
+    "": ""
+  },
+  {
+    "Entity": "Ukraine",
+    "Code": "UKR",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 4.96e-11,
+    "Population by Country (Clio Infra)": 49007559,
+    "": ""
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.00000118,
+    "Population by Country (Clio Infra)": 55632000,
+    "": ""
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 7.04e-7,
+    "Population by Country (Clio Infra)": 55973000,
+    "": ""
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 3.59e-7,
+    "Population by Country (Clio Infra)": 56314000,
+    "": ""
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 1.78e-7,
+    "Population by Country (Clio Infra)": 56903653.5,
+    "": ""
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 6.95e-8,
+    "Population by Country (Clio Infra)": 57493307,
+    "": ""
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 1.26e-8,
+    "Population by Country (Clio Infra)": 58507887.5,
+    "": ""
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 1.86e-9,
+    "Population by Country (Clio Infra)": 59522468,
+    "": ""
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.01774331,
+    "Population by Country (Clio Infra)": 205052000,
+    "": ""
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.01403187,
+    "Population by Country (Clio Infra)": 216389231.5,
+    "": ""
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.011031189,
+    "Population by Country (Clio Infra)": 227726463,
+    "": ""
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.0087197,
+    "Population by Country (Clio Infra)": 238929178.5,
+    "": ""
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.007018089,
+    "Population by Country (Clio Infra)": 250131894,
+    "": ""
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.005641581,
+    "Population by Country (Clio Infra)": 266144947,
+    "": ""
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.004635465,
+    "Population by Country (Clio Infra)": 282158000,
+    "": ""
+  },
+  {
+    "Entity": "Uruguay",
+    "Code": "URY",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.031166071,
+    "Population by Country (Clio Infra)": 2823659,
+    "": ""
+  },
+  {
+    "Entity": "Uruguay",
+    "Code": "URY",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.025161878,
+    "Population by Country (Clio Infra)": 2871755,
+    "": ""
+  },
+  {
+    "Entity": "Uruguay",
+    "Code": "URY",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.019862435,
+    "Population by Country (Clio Infra)": 2919851,
+    "": ""
+  },
+  {
+    "Entity": "Uruguay",
+    "Code": "URY",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.015892296,
+    "Population by Country (Clio Infra)": 3014925.5,
+    "": ""
+  },
+  {
+    "Entity": "Uruguay",
+    "Code": "URY",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.012632605,
+    "Population by Country (Clio Infra)": 3110000,
+    "": ""
+  },
+  {
+    "Entity": "Uruguay",
+    "Code": "URY",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.00984776,
+    "Population by Country (Clio Infra)": 3219000,
+    "": ""
+  },
+  {
+    "Entity": "Uruguay",
+    "Code": "URY",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.008084817,
+    "Population by Country (Clio Infra)": 3328000,
+    "": ""
+  },
+  {
+    "Entity": "Uzbekistan",
+    "Code": "UZB",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.058072673,
+    "Population by Country (Clio Infra)": 11940155,
+    "": ""
+  },
+  {
+    "Entity": "Uzbekistan",
+    "Code": "UZB",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.042883137,
+    "Population by Country (Clio Infra)": 13967077.5,
+    "": ""
+  },
+  {
+    "Entity": "Uzbekistan",
+    "Code": "UZB",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.031549185,
+    "Population by Country (Clio Infra)": 15994000,
+    "": ""
+  },
+  {
+    "Entity": "Uzbekistan",
+    "Code": "UZB",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.023999683,
+    "Population by Country (Clio Infra)": 18262000,
+    "": ""
+  },
+  {
+    "Entity": "Uzbekistan",
+    "Code": "UZB",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.017746722,
+    "Population by Country (Clio Infra)": 20530000,
+    "": ""
+  },
+  {
+    "Entity": "Uzbekistan",
+    "Code": "UZB",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.013266165,
+    "Population by Country (Clio Infra)": 22786000,
+    "": ""
+  },
+  {
+    "Entity": "Uzbekistan",
+    "Code": "UZB",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.00967413,
+    "Population by Country (Clio Infra)": 25042000,
+    "": ""
+  },
+  {
+    "Entity": "Vietnam",
+    "Code": "VNM",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.311887424,
+    "Population by Country (Clio Infra)": 42576676,
+    "": ""
+  },
+  {
+    "Entity": "Vietnam",
+    "Code": "VNM",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.247472655,
+    "Population by Country (Clio Infra)": 48145939,
+    "": ""
+  },
+  {
+    "Entity": "Vietnam",
+    "Code": "VNM",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.194959106,
+    "Population by Country (Clio Infra)": 53715202,
+    "": ""
+  },
+  {
+    "Entity": "Vietnam",
+    "Code": "VNM",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.155537239,
+    "Population by Country (Clio Infra)": 60498953,
+    "": ""
+  },
+  {
+    "Entity": "Vietnam",
+    "Code": "VNM",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.127506143,
+    "Population by Country (Clio Infra)": 67282704,
+    "": ""
+  },
+  {
+    "Entity": "Vietnam",
+    "Code": "VNM",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.106882055,
+    "Population by Country (Clio Infra)": 73171557,
+    "": ""
+  },
+  {
+    "Entity": "Vietnam",
+    "Code": "VNM",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.0902702,
+    "Population by Country (Clio Infra)": 79060410,
+    "": ""
+  },
+  {
+    "Entity": "Zambia",
+    "Code": "ZMB",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.430875818,
+    "Population by Country (Clio Infra)": 4251612,
+    "": ""
+  },
+  {
+    "Entity": "Zambia",
+    "Code": "ZMB",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.363394634,
+    "Population by Country (Clio Infra)": 4975694.5,
+    "": ""
+  },
+  {
+    "Entity": "Zambia",
+    "Code": "ZMB",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.305476838,
+    "Population by Country (Clio Infra)": 5699777,
+    "": ""
+  },
+  {
+    "Entity": "Zambia",
+    "Code": "ZMB",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.251802275,
+    "Population by Country (Clio Infra)": 6838888.5,
+    "": ""
+  },
+  {
+    "Entity": "Zambia",
+    "Code": "ZMB",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.209722017,
+    "Population by Country (Clio Infra)": 7978000,
+    "": ""
+  },
+  {
+    "Entity": "Zambia",
+    "Code": "ZMB",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.176770234,
+    "Population by Country (Clio Infra)": 9091500,
+    "": ""
+  },
+  {
+    "Entity": "Zambia",
+    "Code": "ZMB",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.148956839,
+    "Population by Country (Clio Infra)": 10205000,
+    "": ""
+  },
+  {
+    "Entity": "Zimbabwe",
+    "Code": "ZWE",
+    "Year": 1970,
+    "IIASA rates of no education projections (%)": 0.385931149,
+    "Population by Country (Clio Infra)": 5514536,
+    "": ""
+  },
+  {
+    "Entity": "Zimbabwe",
+    "Code": "ZWE",
+    "Year": 1975,
+    "IIASA rates of no education projections (%)": 0.32927285,
+    "Population by Country (Clio Infra)": 6342252,
+    "": ""
+  },
+  {
+    "Entity": "Zimbabwe",
+    "Code": "ZWE",
+    "Year": 1980,
+    "IIASA rates of no education projections (%)": 0.275003213,
+    "Population by Country (Clio Infra)": 7169968,
+    "": ""
+  },
+  {
+    "Entity": "Zimbabwe",
+    "Code": "ZWE",
+    "Year": 1985,
+    "IIASA rates of no education projections (%)": 0.216805191,
+    "Population by Country (Clio Infra)": 8662984,
+    "": ""
+  },
+  {
+    "Entity": "Zimbabwe",
+    "Code": "ZWE",
+    "Year": 1990,
+    "IIASA rates of no education projections (%)": 0.168708362,
+    "Population by Country (Clio Infra)": 10156000,
+    "": ""
+  },
+  {
+    "Entity": "Zimbabwe",
+    "Code": "ZWE",
+    "Year": 1995,
+    "IIASA rates of no education projections (%)": 0.130679766,
+    "Population by Country (Clio Infra)": 10988000,
+    "": ""
+  },
+  {
+    "Entity": "Zimbabwe",
+    "Code": "ZWE",
+    "Year": 2000,
+    "IIASA rates of no education projections (%)": 0.100730607,
+    "Population by Country (Clio Infra)": 11820000,
+    "": ""
   }
-}
+]
